@@ -3,7 +3,7 @@
 <rect width="1000" height="84" rx="12" fill="url(#about-bg)"/>
 <path d="M0 83H1000" stroke="#2dd4bf" stroke-opacity=".55"/>
 <circle cx="938" cy="42" r="26" fill="none" stroke="#5eead4" stroke-opacity=".5"/>
-<circle cx="938" cy="42" r="12" fill="#2dd4bf" fill-opacity=".25"/>
+<g transform="translate(926 30)" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3.5"/><path d="M5 21v-2a7 7 0 0 1 14 0v2"/></g>
 <text x="28" y="52" font-size="17" font-family="Consolas,monospace" fill="#6ee7d5">01</text>
 <path d="M75 25V60" stroke="#2dd4bf" stroke-width="2"/>
 <text x="99" y="55" font-size="30" font-weight="700" font-family="Arial,sans-serif" fill="#f1f8fc">About me</text>

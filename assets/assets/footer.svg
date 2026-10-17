@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="125" viewBox="0 0 1000 125" role="img" aria-label="Faizyab Ahmad portfolio footer">
+<defs><linearGradient id="footer-bg"><stop stop-color="#091728"/><stop offset="1" stop-color="#103448"/></linearGradient></defs>
+<rect width="1000" height="125" rx="14" fill="url(#footer-bg)"/>
+<path d="M0 28C220 85 350 0 520 48S800 70 1000 20" fill="none" stroke="#2dd4bf" stroke-opacity=".55" stroke-width="1.5" stroke-dasharray="14 10"><animate attributeName="stroke-dashoffset" from="0" to="-96" dur="10s" repeatCount="indefinite"/></path>
+<text x="500" y="75" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#f8fafc">Designed &amp; built by Faizyab Ahmad</text>
+<text x="500" y="100" text-anchor="middle" font-family="Consolas,monospace" font-size="12" letter-spacing="2" fill="#5eead4">CRAFT · CLARITY · CONTINUOUS LEARNING</text>
+</svg>
