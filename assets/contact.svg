@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="84" viewBox="0 0 1000 84" role="img" aria-label="Let's connect">
+<defs><linearGradient id="contact-bg"><stop stop-color="#0d2437"/><stop offset="1" stop-color="#14566a"/></linearGradient></defs>
+<rect width="1000" height="84" rx="12" fill="url(#contact-bg)"/>
+<path d="M0 83H1000" stroke="#2dd4bf" stroke-opacity=".55"/>
+<circle cx="938" cy="42" r="26" fill="none" stroke="#5eead4" stroke-opacity=".5"/>
+<circle cx="938" cy="42" r="12" fill="#2dd4bf" fill-opacity=".25"/>
+<text x="28" y="52" font-size="17" font-family="Consolas,monospace" fill="#6ee7d5">06</text>
+<path d="M75 25V60" stroke="#2dd4bf" stroke-width="2"/>
+<text x="99" y="55" font-size="30" font-weight="700" font-family="Arial,sans-serif" fill="#f1f8fc">Let's connect</text>
+<path d="M760 42h130" stroke="#6ee7d5" stroke-width="2" stroke-opacity=".55" stroke-dasharray="12 8"><animate attributeName="stroke-dashoffset" from="0" to="-80" dur="7s" repeatCount="indefinite"/></path>
+</svg>
