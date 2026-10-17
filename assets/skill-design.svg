@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 165" width="1200" height="165" role="img" aria-label="skill design">
+<title>skill design</title><desc>Craft + workflow Figma  /  UI/UX  /  Git  /  Postman  /  QA</desc>
+<defs>
+  <linearGradient id="skill-design-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10070C"/><stop offset=".53" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+  <radialGradient id="skill-design-aura"><stop offset="0" stop-color="#701A3D" stop-opacity=".48"/><stop offset=".45" stop-color="#451126" stop-opacity=".24"/><stop offset="1" stop-color="#10070C" stop-opacity="0"/></radialGradient>
+  <linearGradient id="skill-design-metal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F8F0F3"/><stop offset=".65" stop-color="#E5B5C7"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <linearGradient id="skill-design-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#E5B5C7" stop-opacity=".85"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+  <pattern id="skill-design-grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#E5B5C7" stroke-width=".75" stroke-opacity=".1"/></pattern>
+  <clipPath id="skill-design-clip"><rect width="1200" height="165" rx="18"/></clipPath>
+  <filter id="skill-design-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<g clip-path="url(#skill-design-clip)">
+<rect width="1200" height="165" fill="url(#skill-design-bg)"/>
+<ellipse cx="948" cy="69" rx="480" ry="157" fill="url(#skill-design-aura)"/>
+<rect width="1200" height="165" fill="url(#skill-design-grid)"/>
+<path d="M0 28H1200 M40 0V165 M1160 0V165" fill="none" stroke="#E5B5C7" stroke-opacity=".13"/>
+<g fill="none" stroke="#C77B9B" stroke-width="1" stroke-opacity=".52"><path d="M40 58V84 M40 58H67 M1160 58H1133 M1160 58V84 M40 130H67 M40 130V103 M1160 130H1133 M1160 130V103"/></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="84" y="46" font-size="12" fill="#C77B9B" letter-spacing="3">03 / DESIGN &amp; DELIVERY</text><text x="83" y="99" font-size="46" font-weight="700" fill="url(#skill-design-metal)">Craft + workflow</text><text x="85" y="135" font-size="19" fill="#E5B5C7">Figma  /  UI/UX  /  Git  /  Postman  /  QA</text></g><g fill="none" stroke="#C77B9B" stroke-width="1">
+  <circle cx="1020" cy="86" r="63" stroke-opacity=".35"/>
+  <circle cx="1020" cy="86" r="47" stroke-opacity=".24" stroke-dasharray="3 9"/>
+  <circle cx="1020" cy="86" r="27" stroke-opacity=".38"/>
+  <g transform="translate(1020 86)"><g><ellipse rx="70" ry="25" transform="rotate(-22)" stroke-opacity=".4"/>
+  <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="42s" repeatCount="indefinite"/></g></g>
+  <path d="M957 86h126" stroke-opacity=".18"/><path d="M1020 23v126" stroke-opacity=".18"/>
+ </g><circle cx="1064" cy="42" r="3" fill="#E5B5C7"><animate attributeName="opacity" values=".25;1;.25" dur="4s" repeatCount="indefinite"/></circle></g><rect x=".75" y=".75" width="1198.5" height="163.5" rx="17.25" fill="none" stroke="#C77B9B" stroke-opacity=".38" stroke-width="1.5"/>
+</svg>

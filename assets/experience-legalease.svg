@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="experience legalease">
+<title>experience legalease</title><desc>LEGALEASE AI — REQUIREMENTS + PROJECT COORDINATION. Decorative representation, not a screenshot.</desc>
+<defs>
+  <linearGradient id="experience-legalease-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10070C"/><stop offset=".53" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+  <radialGradient id="experience-legalease-aura"><stop offset="0" stop-color="#701A3D" stop-opacity=".48"/><stop offset=".45" stop-color="#451126" stop-opacity=".24"/><stop offset="1" stop-color="#10070C" stop-opacity="0"/></radialGradient>
+  <linearGradient id="experience-legalease-metal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F8F0F3"/><stop offset=".65" stop-color="#E5B5C7"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <linearGradient id="experience-legalease-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#E5B5C7" stop-opacity=".85"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+  <pattern id="experience-legalease-grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#E5B5C7" stroke-width=".75" stroke-opacity=".1"/></pattern>
+  <clipPath id="experience-legalease-clip"><rect width="1200" height="190" rx="18"/></clipPath>
+  <filter id="experience-legalease-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<g clip-path="url(#experience-legalease-clip)">
+<rect width="1200" height="190" fill="url(#experience-legalease-bg)"/>
+<ellipse cx="948" cy="80" rx="480" ry="180" fill="url(#experience-legalease-aura)"/>
+<rect width="1200" height="190" fill="url(#experience-legalease-grid)"/>
+<path d="M0 28H1200 M40 0V190 M1160 0V190" fill="none" stroke="#E5B5C7" stroke-opacity=".13"/>
+<g fill="none" stroke="#C77B9B" stroke-width="1" stroke-opacity=".52"><path d="M40 58V84 M40 58H67 M1160 58H1133 M1160 58V84 M40 155H67 M40 155V128 M1160 155H1133 M1160 155V128"/></g>
+<g fill="none" stroke="#E5B5C7"><path d="M940 28h140l30 30v92h-170z" stroke-opacity=".6"/><path d="M1080 28v30h30" stroke-opacity=".5"/><path d="M963 80h122 M963 99h122 M963 118h92" stroke-opacity=".34" stroke-width="4"/><circle cx="1108" cy="120" r="36" stroke="#C77B9B" stroke-opacity=".5"/><path d="M1100 120l8 8 16-19" stroke="#E5B5C7" stroke-width="2"/></g><g font-family="Arial,Helvetica,sans-serif"><text x="84" y="45" fill="#C77B9B" font-size="13" letter-spacing="2.3">02 / DOCUMENTED EXPERIENCE</text><text x="83" y="101" fill="url(#experience-legalease-metal)" font-size="49" font-weight="700">LEGALEASE AI</text><text x="85" y="137" fill="#E5B5C7" font-size="20">Legal-document workflow</text><text x="85" y="172" fill="#C77B9B" font-size="12" letter-spacing="2">REQUIREMENTS + PROJECT COORDINATION</text></g></g><rect x=".75" y=".75" width="1198.5" height="188.5" rx="17.25" fill="none" stroke="#C77B9B" stroke-opacity=".38" stroke-width="1.5"/>
+</svg>

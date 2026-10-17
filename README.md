@@ -1,88 +1,81 @@
-<div align="center">
+<div align="center"> <img src="assets/faizyab-hero.svg" alt="Faizyab Ahmad — Software Engineer, full-stack developer, UI/UX designer and AI/SQA enthusiast" width="100%" />
+Software Engineer   ·   Design-minded Developer   ·   Curious Builder
 
-<img src="assets/faizyab-hero.svg" alt="Faizyab Ahmad — Full-Stack Developer, UI/UX Designer, AI and SQA Enthusiast" width="100%" />
+Turning ideas into meaningful digital experiences.
 
-<br />
-
-**Software Engineer &nbsp;·&nbsp; Design-minded Developer &nbsp;·&nbsp; Curious Builder**
-
-*Turning ideas into meaningful digital experiences.*
-
-[Explore Projects](#selected-projects) &nbsp;·&nbsp; [My Toolkit](#technical-toolkit) &nbsp;·&nbsp; [Connect](#lets-connect)
+About me · Selected projects · Technical toolkit · Activity · Connect
 
 </div>
-
----
-
-## 01 / About me
-
-I'm **Faizyab Ahmad**, a software engineer and **BS Computer Science graduate (2026)** from the **University of Central Punjab**. My work sits at the intersection of thoughtful interface design, practical engineering, and clear communication.
+About me
+<img src="assets/section-about.svg" alt="01 — Design with intention. Build with clarity." width="100%" />
+I'm Faizyab Ahmad, a software engineer and BS Computer Science graduate (2026) from the University of Central Punjab. My work sits at the intersection of thoughtful interface design, practical engineering, and clear communication.
 
 I build responsive frontend experiences, work with modern web technologies and AI integrations, and coordinate software delivery from requirements through testing and handoff. I care about clean interactions, useful products, and the small details that make an application feel reliable.
 
-**What I'm focusing on:** full-stack engineering · UI/UX systems · AI-assisted applications · software quality & testing.
+<div align="center"> <img src="assets/about-values.svg" alt="My approach: think with empathy, design for clarity, and build for real use" width="100%" /> </div>
+Currently focused on: Full-stack engineering · UI/UX systems · AI-assisted applications · Software quality and testing.
 
-## 02 / Selected projects
+Selected projects
+<img src="assets/section-projects.svg" alt="02 — Ideas shipped. Work worth exploring." width="100%" />
+A selection of my public repositories and documented project experience. Decorative project illustrations below are custom SVG artwork, not application screenshots.
 
-A selection of **public repositories** and **documented project work**. Private client projects are described only at the level supported by my professional resume.
+Public repositories
+<a href="https://github.com/FaizyabBajwa/ToDesktop"><img src="assets/repo-todesktop.svg" alt="ToDesktop frontend project — browse GitHub repository" width="100%" /></a>
 
-### Public repositories
+A frontend development project based around a ToDesktop-style web experience. Explore source ↗
 
-**01 — [ToDesktop](https://github.com/FaizyabBajwa/ToDesktop)**  
-Frontend development project based around a ToDesktop-style web experience. [Browse source →](https://github.com/FaizyabBajwa/ToDesktop)
+<a href="https://github.com/FaizyabBajwa/student-portfolio"><img src="assets/repo-portfolio.svg" alt="Student Portfolio — browse GitHub repository" width="100%" /></a>
 
-**02 — [Student Portfolio](https://github.com/FaizyabBajwa/student-portfolio)**  
-Personal portfolio-oriented web project. [Browse source →](https://github.com/FaizyabBajwa/student-portfolio)
+A personal portfolio-oriented web project. Explore source ↗
 
-**03 — [FYP — To Reduce Mental Health](https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health)**  
-University-project repository exploring a mental-health-related digital concept. [Browse source →](https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health)
+<a href="https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health"><img src="assets/repo-mental-health.svg" alt="University mental-health themed final-year-project repository — browse source" width="100%" /></a>
 
-**04 — [Local Tourism Website](https://github.com/FaizyabBajwa/local-tourism-website)**  
-Web project exploring a local tourism theme. [Browse source →](https://github.com/FaizyabBajwa/local-tourism-website)
+A university-project repository exploring a mental-health-related digital concept. Explore source ↗
 
-### Project experience
+<a href="https://github.com/FaizyabBajwa/local-tourism-website"><img src="assets/repo-tourism.svg" alt="Local Tourism Website — browse source" width="100%" /></a>
 
-**BENZI AI — Therapist & Patient Care Platform**  
-*Final-year project · Figma · React.js*  
+A web project exploring a local tourism theme. Explore source ↗
+
+Selected project experience
+The following projects are included from my documented professional and academic work; they are not presented as public GitHub repositories.
+
+<img src="assets/experience-benzi.svg" alt="BENZI AI — UI/UX and React.js frontend implementation" width="100%" />
+BENZI AI — Therapist & Patient Care Platform
+Final-year project · Figma · React.js
 Designed UI/UX for patient, therapist, and admin portals; personally developed responsive patient and therapist frontend interfaces from Figma designs.
 
-**LegalEase AI — Legal-Document Assistant**  
-*Project coordination · FastAPI · MongoDB · Hugging Face · OCR*  
+<img src="assets/experience-legalease.svg" alt="LegalEase AI — legal-document project coordination" width="100%" />
+LegalEase AI — Legal-Document Assistant
+Project coordination · FastAPI · MongoDB · Hugging Face · OCR
 Coordinated documentation and development requirements for an AI-assisted legal-document workflow, including document analysis and OCR ingestion.
 
-**Pakistan Citizens Alliance — Donation Platform**  
-*Project coordination · Next.js · PostgreSQL · Prisma · PayFast*  
+<img src="assets/experience-pca.svg" alt="PCA Donation Platform — development coordination and delivery" width="100%" />
+Pakistan Citizens Alliance — Donation Platform
+Project coordination · Next.js · PostgreSQL · Prisma · PayFast
 Coordinated a multi-phase full-stack expansion, including payment and email integration requirements, dashboard improvements, QA, and handoff.
 
-> These project-experience summaries reflect design, implementation, or coordination responsibilities as specified above. They are not presented as public GitHub repositories.
+Technical toolkit
+<img src="assets/section-toolkit.svg" alt="03 — The craft behind the experience" width="100%" /> <img src="assets/skill-engineering.svg" alt="Engineering skills — frontend and backend" width="100%" />
+Frontend: React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap 5
+Backend & APIs: Python · FastAPI · PHP · REST APIs · JWT / OTP authentication
 
-## 03 / Technical toolkit
+<img src="assets/skill-integrations.svg" alt="Data and AI integrations skills" width="100%" />
+Data: SQL
+AI & integrations: OpenAI APIs · Hugging Face · PayFast · Nodemailer
 
-| Discipline | Technologies & capabilities |
-| :--- | :--- |
-| **Frontend** | `React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` |
-| **Backend & APIs** | `Python` `FastAPI` `PHP` `REST APIs` `JWT / OTP authentication` |
-| **Data** | `SQL` |
-| **AI & integrations** | `OpenAI APIs` `Hugging Face` `PayFast` `Nodemailer` |
-| **Design** | `Figma` `UI/UX` `Prototyping` `Responsive UI design` |
-| **Workflow** | `Git` `GitHub` `Vite` `Postman` `Requirements` `Documentation` `QA coordination` |
+<img src="assets/skill-design.svg" alt="Design and software delivery skills" width="100%" />
+Design: Figma · UI/UX · Prototyping · Responsive UI design
+Workflow: Git · GitHub · Vite · Postman · Requirements gathering · Documentation · QA coordination
 
-## 04 / GitHub activity
+GitHub activity
+<img src="assets/section-activity.svg" alt="04 — Work in progress. Always learning." width="100%" />
+My public contributions and repositories are available directly on GitHub. The activity calendar is maintained by GitHub; this profile deliberately avoids invented totals, streaks or decorative graphs presented as real data.
 
-My public work and contribution history are available directly on GitHub, where activity counts and contribution dates are maintained by GitHub rather than illustrated with fabricated data.
+View my GitHub contribution calendar and repositories ↗
 
-**[View my actual contribution graph and repositories →](https://github.com/FaizyabBajwa?tab=overview)**
-
-*GitHub also displays the native contribution calendar beneath this profile README. External statistics cards are intentionally omitted to avoid unreliable or broken images.*
-
-## 05 / Let's connect
-
+Let's connect
+<img src="assets/section-connect.svg" alt="05 — Great work begins with a conversation" width="100%" />
 I'm interested in conversations about meaningful web experiences, thoughtful product interfaces, full-stack engineering, and software quality.
 
-[**GitHub**](https://github.com/FaizyabBajwa) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/faizyab-a-4b3309372/) &nbsp;·&nbsp; [**Email**](mailto:therealfaizyabahmad@gmail.com)
-
-<br />
-
-<div align="center">
-  <img src="assets/faizyab-footer.svg" alt="Designed and built by Faizyab Ahmad" width="100%" />
-</div>
+<div align="center"> <a href="https://github.com/FaizyabBajwa"><img src="assets/contact-github.svg" alt="Open Faizyab Ahmad's GitHub profile" width="100%" /></a> <a href="https://www.linkedin.com/in/faizyab-a-4b3309372/"><img src="assets/contact-linkedin.svg" alt="Connect with Faizyab Ahmad on LinkedIn" width="100%" /></a> <a href="mailto:therealfaizyabahmad@gmail.com"><img src="assets/contact-email.svg" alt="Email Faizyab Ahmad" width="100%" /></a> </div>
+<div align="center"> <img src="assets/faizyab-footer.svg" alt="Designed and built by Faizyab Ahmad" width="100%" /> </div>

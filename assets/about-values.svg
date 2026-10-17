@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 168" width="1200" height="168" role="img" aria-label="about values">
+<title>about values</title><desc>Three creative principles: think with empathy, design for clarity, and build for real use.</desc>
+<defs>
+  <linearGradient id="about-values-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10070C"/><stop offset=".53" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+  <radialGradient id="about-values-aura"><stop offset="0" stop-color="#701A3D" stop-opacity=".48"/><stop offset=".45" stop-color="#451126" stop-opacity=".24"/><stop offset="1" stop-color="#10070C" stop-opacity="0"/></radialGradient>
+  <linearGradient id="about-values-metal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F8F0F3"/><stop offset=".65" stop-color="#E5B5C7"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <linearGradient id="about-values-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#E5B5C7" stop-opacity=".85"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+  <pattern id="about-values-grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#E5B5C7" stroke-width=".75" stroke-opacity=".1"/></pattern>
+  <clipPath id="about-values-clip"><rect width="1200" height="168" rx="18"/></clipPath>
+  <filter id="about-values-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<g clip-path="url(#about-values-clip)">
+<rect width="1200" height="168" fill="url(#about-values-bg)"/>
+<ellipse cx="948" cy="71" rx="480" ry="160" fill="url(#about-values-aura)"/>
+<rect width="1200" height="168" fill="url(#about-values-grid)"/>
+<path d="M0 28H1200 M40 0V168 M1160 0V168" fill="none" stroke="#E5B5C7" stroke-opacity=".13"/>
+<g fill="none" stroke="#C77B9B" stroke-width="1" stroke-opacity=".52"><path d="M40 58V84 M40 58H67 M1160 58H1133 M1160 58V84 M40 133H67 M40 133V106 M1160 133H1133 M1160 133V106"/></g>
+<g font-family="Arial,Helvetica,sans-serif"><circle cx="98" cy="51" r="6" fill="#C77B9B" opacity=".75"><animate attributeName="opacity" values=".3;.95;.3" dur="6s" repeatCount="indefinite"/></circle><text x="117" y="57" font-size="12" fill="#C77B9B" letter-spacing="2.4">01 / PRINCIPLE</text><text x="86" y="105" font-size="36" fill="#F8F0F3" font-weight="700" letter-spacing="1.6">THINK</text><text x="86" y="135" font-size="18" fill="#E5B5C7">With empathy</text><circle cx="490" cy="51" r="6" fill="#C77B9B" opacity=".75"><animate attributeName="opacity" values=".3;.95;.3" dur="7s" repeatCount="indefinite"/></circle><text x="509" y="57" font-size="12" fill="#C77B9B" letter-spacing="2.4">02 / PRINCIPLE</text><text x="478" y="105" font-size="36" fill="#F8F0F3" font-weight="700" letter-spacing="1.6">DESIGN</text><text x="478" y="135" font-size="18" fill="#E5B5C7">For clarity</text><circle cx="882" cy="51" r="6" fill="#C77B9B" opacity=".75"><animate attributeName="opacity" values=".3;.95;.3" dur="8s" repeatCount="indefinite"/></circle><text x="901" y="57" font-size="12" fill="#C77B9B" letter-spacing="2.4">03 / PRINCIPLE</text><text x="870" y="105" font-size="36" fill="#F8F0F3" font-weight="700" letter-spacing="1.6">BUILD</text><text x="870" y="135" font-size="18" fill="#E5B5C7">For real use</text></g><path d="M435 36V134 M827 36V134" stroke="#E5B5C7" stroke-opacity=".18"/></g><rect x=".75" y=".75" width="1198.5" height="166.5" rx="17.25" fill="none" stroke="#C77B9B" stroke-opacity=".38" stroke-width="1.5"/>
+</svg>

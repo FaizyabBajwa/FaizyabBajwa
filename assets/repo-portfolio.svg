@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="repo portfolio">
+<title>repo portfolio</title><desc>STUDENT PORTFOLIO, Personal web design project. Decorative artwork, not a project screenshot.</desc>
+<defs>
+  <linearGradient id="repo-portfolio-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10070C"/><stop offset=".53" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+  <radialGradient id="repo-portfolio-aura"><stop offset="0" stop-color="#701A3D" stop-opacity=".48"/><stop offset=".45" stop-color="#451126" stop-opacity=".24"/><stop offset="1" stop-color="#10070C" stop-opacity="0"/></radialGradient>
+  <linearGradient id="repo-portfolio-metal" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F8F0F3"/><stop offset=".65" stop-color="#E5B5C7"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <linearGradient id="repo-portfolio-line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#E5B5C7" stop-opacity=".85"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+  <pattern id="repo-portfolio-grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#E5B5C7" stroke-width=".75" stroke-opacity=".1"/></pattern>
+  <clipPath id="repo-portfolio-clip"><rect width="1200" height="210" rx="18"/></clipPath>
+  <filter id="repo-portfolio-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<g clip-path="url(#repo-portfolio-clip)">
+<rect width="1200" height="210" fill="url(#repo-portfolio-bg)"/>
+<ellipse cx="948" cy="88" rx="480" ry="200" fill="url(#repo-portfolio-aura)"/>
+<rect width="1200" height="210" fill="url(#repo-portfolio-grid)"/>
+<path d="M0 28H1200 M40 0V210 M1160 0V210" fill="none" stroke="#E5B5C7" stroke-opacity=".13"/>
+<g fill="none" stroke="#C77B9B" stroke-width="1" stroke-opacity=".52"><path d="M40 58V84 M40 58H67 M1160 58H1133 M1160 58V84 M40 175H67 M40 175V148 M1160 175H1133 M1160 175V148"/></g>
+<g fill="none" stroke="#E5B5C7" transform="translate(810 30)"><rect x="18" y="21" width="242" height="137" rx="12" transform="rotate(-11 139 89)" stroke-opacity=".2"/><rect x="58" y="15" width="242" height="137" rx="12" transform="rotate(8 179 83)" stroke-opacity=".33"/><rect x="35" y="24" width="242" height="137" rx="12" fill="#28101D" stroke-opacity=".69"/><rect x="53" y="44" width="75" height="93" rx="6" fill="#701A3D" fill-opacity=".48" stroke-opacity=".33"/><path d="M152 51h94 M152 77h74 M152 103h94 M152 128h63" stroke-opacity=".48" stroke-width="5" stroke-linecap="round"/></g><g font-family="Arial,Helvetica,sans-serif"><text x="84" y="49" fill="#C77B9B" font-size="13" letter-spacing="2.5">02 / PUBLIC REPOSITORY</text>
+    <text x="84" y="113" fill="url(#repo-portfolio-metal)" font-weight="700" font-size="50" letter-spacing=".4">STUDENT PORTFOLIO</text>
+    <text x="86" y="151" fill="#E5B5C7" font-size="22">Personal web design project</text>
+    <text x="85" y="188" fill="#C77B9B" font-size="11" letter-spacing="2.2">PORTFOLIO / UI    /    OPEN SOURCE</text></g><path d="M84 165H700" stroke="url(#repo-portfolio-line)" stroke-width="1.5"/></g><rect x=".75" y=".75" width="1198.5" height="208.5" rx="17.25" fill="none" stroke="#C77B9B" stroke-opacity=".38" stroke-width="1.5"/>
+</svg>
