@@ -1,255 +1,88 @@
-# MASTER PROMPT — FAIZYAB AHMAD | PREMIUM ANIMATED GITHUB PROFILE README
+<div align="center">
 
-Act as an award-winning GitHub profile designer, senior frontend engineer, SVG motion artist, and developer branding specialist.
+<img src="assets/faizyab-hero.svg" alt="Faizyab Ahmad — Full-Stack Developer, UI/UX Designer, AI and SQA Enthusiast" width="100%" />
 
-Your task is to create a **premium, cinematic, animated, burgundy-themed GitHub Profile README** for my existing GitHub account.
+<br />
 
-**Name:** Faizyab Ahmad  
-**GitHub Username:** FaizyabBajwa  
-**GitHub:** https://github.com/FaizyabBajwa/  
-**Profile Repository:** https://github.com/FaizyabBajwa/FaizyabBajwa
+**Software Engineer &nbsp;·&nbsp; Design-minded Developer &nbsp;·&nbsp; Curious Builder**
 
-## 1. DEVELOPER IDENTITY
+*Turning ideas into meaningful digital experiences.*
 
-**Professional Title:**
+[Explore Projects](#selected-projects) &nbsp;·&nbsp; [My Toolkit](#technical-toolkit) &nbsp;·&nbsp; [Connect](#lets-connect)
 
-Full-Stack Developer | UI/UX Designer | AI & SQA Enthusiast
+</div>
 
-**Education:**
+---
 
-Bachelor of Computer Science — University of Central Punjab, Lahore.
+## 01 / About me
 
-**Technical Skills to Verify:**
+I'm **Faizyab Ahmad**, a software engineer and **BS Computer Science graduate (2026)** from the **University of Central Punjab**. My work sits at the intersection of thoughtful interface design, practical engineering, and clear communication.
 
-- HTML5, CSS3, JavaScript
-- React.js, React Router, Tailwind CSS
-- PHP, SQL
-- Figma, Responsive Web Design
-- Puter.js, AI Integration
-- Git, GitHub
-- Software Quality Assurance
+I build responsive frontend experiences, work with modern web technologies and AI integrations, and coordinate software delivery from requirements through testing and handoff. I care about clean interactions, useful products, and the small details that make an application feel reliable.
 
-Verify all skills against my actual repositories, resume, or approved information before publishing.
+**What I'm focusing on:** full-stack engineering · UI/UX systems · AI-assisted applications · software quality & testing.
 
-## 2. FIRST — INSPECT MY GITHUB
+## 02 / Selected projects
 
-Before making changes:
+A selection of **public repositories** and **documented project work**. Private client projects are described only at the level supported by my professional resume.
 
-1. Inspect my existing GitHub profile and repositories.
-2. Analyze my current README.md if available.
-3. Identify genuine projects and their technology stacks.
-4. Preserve accurate existing information.
-5. Verify working project and demo URLs.
-6. Do not invent achievements, certifications, statistics, or experience.
-7. Do not create another profile repository.
-8. Never publish my phone number, secrets, or private resume information.
+### Public repositories
 
-## 3. PREMIUM VISUAL THEME
+**01 — [ToDesktop](https://github.com/FaizyabBajwa/ToDesktop)**  
+Frontend development project based around a ToDesktop-style web experience. [Browse source →](https://github.com/FaizyabBajwa/ToDesktop)
 
-Use the following color palette:
+**02 — [Student Portfolio](https://github.com/FaizyabBajwa/student-portfolio)**  
+Personal portfolio-oriented web project. [Browse source →](https://github.com/FaizyabBajwa/student-portfolio)
 
-- Midnight: `#10070C`
-- Dark Wine: `#190B12`
-- Burgundy: `#451126`
-- Wine Accent: `#701A3D`
-- Soft Rose: `#C77B9B`
-- Pale Rose: `#E5B5C7`
-- Ivory: `#F8F0F3`
+**03 — [FYP — To Reduce Mental Health](https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health)**  
+University-project repository exploring a mental-health-related digital concept. [Browse source →](https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health)
 
-**Design Style:**
+**04 — [Local Tourism Website](https://github.com/FaizyabBajwa/local-tourism-website)**  
+Web project exploring a local tourism theme. [Browse source →](https://github.com/FaizyabBajwa/local-tourism-website)
 
-Cinematic, luxurious, futuristic, elegant, minimal, and editorial.
+### Project experience
 
-The result must look like a professionally designed developer portfolio rather than a generic GitHub README template.
+**BENZI AI — Therapist & Patient Care Platform**  
+*Final-year project · Figma · React.js*  
+Designed UI/UX for patient, therapist, and admin portals; personally developed responsive patient and therapist frontend interfaces from Figma designs.
 
-Use consistent typography, thin glowing lines, subtle animated gradients, geometric details, and generous spacing.
+**LegalEase AI — Legal-Document Assistant**  
+*Project coordination · FastAPI · MongoDB · Hugging Face · OCR*  
+Coordinated documentation and development requirements for an AI-assisted legal-document workflow, including document analysis and OCR ingestion.
 
-Avoid unnecessary emojis and excessive badges.
+**Pakistan Citizens Alliance — Donation Platform**  
+*Project coordination · Next.js · PostgreSQL · Prisma · PayFast*  
+Coordinated a multi-phase full-stack expansion, including payment and email integration requirements, dashboard improvements, QA, and handoff.
 
-## 4. CREATE ANIMATED SVG HERO
+> These project-experience summaries reflect design, implementation, or coordination responsibilities as specified above. They are not presented as public GitHub repositories.
 
-Create:
+## 03 / Technical toolkit
 
-`assets/faizyab-hero.svg`
+| Discipline | Technologies & capabilities |
+| :--- | :--- |
+| **Frontend** | `React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` |
+| **Backend & APIs** | `Python` `FastAPI` `PHP` `REST APIs` `JWT / OTP authentication` |
+| **Data** | `SQL` |
+| **AI & integrations** | `OpenAI APIs` `Hugging Face` `PayFast` `Nodemailer` |
+| **Design** | `Figma` `UI/UX` `Prototyping` `Responsive UI design` |
+| **Workflow** | `Git` `GitHub` `Vite` `Postman` `Requirements` `Documentation` `QA coordination` |
 
-Design a premium widescreen hero banner featuring:
+## 04 / GitHub activity
 
-**Main Heading:**
+My public work and contribution history are available directly on GitHub, where activity counts and contribution dates are maintained by GitHub rather than illustrated with fabricated data.
 
-FAIZYAB AHMAD
+**[View my actual contribution graph and repositories →](https://github.com/FaizyabBajwa?tab=overview)**
 
-**Subtitle:**
+*GitHub also displays the native contribution calendar beneath this profile README. External statistics cards are intentionally omitted to avoid unreliable or broken images.*
 
-Full-Stack Developer • UI/UX Designer • AI & SQA Enthusiast
+## 05 / Let's connect
 
-**Tagline:**
+I'm interested in conversations about meaningful web experiences, thoughtful product interfaces, full-stack engineering, and software quality.
 
-"Turning Ideas Into Meaningful Digital Experiences."
+[**GitHub**](https://github.com/FaizyabBajwa) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/faizyab-a-4b3309372/) &nbsp;·&nbsp; [**Email**](mailto:therealfaizyabahmad@gmail.com)
 
-Include:
+<br />
 
-- Animated burgundy gradients
-- Soft glowing particles
-- Fine technical grid
-- Orbital geometric animations
-- Moving SVG paths
-- Elegant text treatments
-- Animated glowing underline
-- Subtle background motion
-- Beautiful static fallback
-
-Use pure SVG and SMIL animations compatible with GitHub image rendering.
-
-Do not depend on JavaScript.
-
-## 5. README SECTION STRUCTURE
-
-Build the README in this order:
-
-### Section 1 — Hero Banner
-
-Show my custom animated SVG banner at the top.
-
-### Section 2 — About Me
-
-Create an authentic professional introduction describing my computer science background, frontend development, UI/UX design, AI integration, and software quality interests.
-
-Keep the tone human, confident, and recruiter-friendly.
-
-### Section 3 — Currently Exploring
-
-Include my interests in:
-
-- Full-stack development
-- AI-powered web applications
-- Software quality assurance
-- Modern UI/UX engineering
-- Application testing and automation
-
-### Section 4 — Featured Projects
-
-Inspect these repositories:
-
-- https://github.com/FaizyabBajwa/ToDesktop
-- https://github.com/FaizyabBajwa/student-portfolio
-- https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health
-- https://github.com/FaizyabBajwa/local-tourism-website
-- https://github.com/FaizyabBajwa/react-js
-
-Also consider BENZI.AI, AI Resume Analyzer, Apollo Website, and Khata App only when verified from supplied files or working project links.
-
-Show the strongest real projects with descriptions, verified technology stacks, and working links.
-
-Use elegant GitHub-compatible project layouts.
-
-### Section 5 — Technical Skills
-
-Organize verified skills into:
-
-- Frontend Development
-- Backend & Databases
-- UI/UX Design
-- AI Integration
-- Development Tools
-- Software Testing
-
-Use matching technology icons and a professional visual layout.
-
-### Section 6 — GitHub Activity
-
-Display my authentic GitHub contribution graph.
-
-Use a reliable service with colors matching the theme.
-
-Do not fabricate activity.
-
-### Section 7 — GitHub Statistics
-
-Include reliable GitHub statistics and most-used language cards where available.
-
-Use burgundy and rose accents.
-
-Remove any unreliable or broken cards.
-
-### Section 8 — Connect With Me
-
-Include my verified GitHub link.
-
-Add LinkedIn, email, or portfolio links only when verified.
-
-Do not expose my phone number.
-
-### Section 9 — Animated Footer
-
-Create:
-
-`assets/faizyab-footer.svg`
-
-Include subtle animated burgundy waves, glowing accents, and the signature:
-
-"Designed & Built by Faizyab Ahmad"
-
-## 6. TECHNICAL REQUIREMENTS
-
-GitHub sanitizes README HTML.
-
-Therefore:
-
-- Use GitHub-compatible Markdown and HTML.
-- Use embedded SVG images.
-- Use relative paths for custom SVG assets.
-- Do not use JavaScript, iframes, or custom CSS files.
-- Make images responsive.
-- Support mobile devices.
-- Avoid broken image URLs.
-- Ensure static readability if animations are disabled.
-- Optimize SVG assets for lightweight rendering.
-- Validate all SVG markup and relative paths.
-
-## 7. REQUIRED FILE STRUCTURE
-
-Create these files inside my existing GitHub profile repository:
-
-```text
-FaizyabBajwa/
-├── README.md
-└── assets/
-    ├── faizyab-hero.svg
-    └── faizyab-footer.svg
-```
-
-## 8. QUALITY CONTROL
-
-Before finishing:
-
-1. Verify all personal information.
-2. Confirm projects and repository URLs are genuine.
-3. Check every image and SVG asset.
-4. Validate Markdown rendering.
-5. Ensure mobile responsiveness.
-6. Remove broken links and unnecessary elements.
-7. Never display fictional achievements.
-8. Never display my phone number.
-9. Make sure the final profile looks professional and cohesive.
-10. Keep all edits local until I approve publication.
-
-## 9. FINAL IMPLEMENTATION
-
-Do not provide only explanations, suggestions, or design mockups.
-
-**Generate and write the actual files directly into my currently opened repository.**
-
-Deliver:
-
-1. Complete `README.md`
-2. Custom animated `faizyab-hero.svg`
-3. Custom animated `faizyab-footer.svg`
-4. Working project links
-5. Verified developer information
-6. Responsive GitHub-compatible layout
-
-Do not automatically commit or push changes.
-
-**FINAL GOAL:**
-
-Create a visually exceptional GitHub profile that feels like a premium, award-winning developer portfolio while accurately presenting Faizyab Ahmad's genuine skills, projects, academic background, and professional interests.
+<div align="center">
+  <img src="assets/faizyab-footer.svg" alt="Designed and built by Faizyab Ahmad" width="100%" />
+</div>
