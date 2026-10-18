@@ -1,4 +1,4 @@
-<!-- Faizyab Ahmad | Navy + teal portfolio | All seven resume projects featured; no private code or phone number -->
+<!-- Faizyab Ahmad | Navy + teal portfolio | Project icon badges are local SVGs; no private code or phone number -->
 
 <a id="top"></a>
 
@@ -72,13 +72,19 @@ I also design interfaces in Figma and develop responsive frontends using React.j
 <td width="50%" valign="top">
 <p><img src="assets/icons/code.svg" alt="" width="25" height="25" /> <strong>01 / ToDesktop</strong></p>
 <p>A frontend practice project recreating a ToDesktop-inspired website experience.</p>
-<p><img alt="Frontend UI recreation" src="https://img.shields.io/badge/Frontend-UI%20recreation-12556A?style=flat-square" /></p>
+<p>
+<img src="assets/project-badges/frontend.svg" alt="Frontend" height="34" />
+<img src="assets/project-badges/ui-recreation.svg" alt="Ui Recreation" height="34" />
+</p>
 <a href="https://github.com/FaizyabBajwa/ToDesktop"><img src="https://img.shields.io/badge/View-Source-0D787C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View ToDesktop source on GitHub" /></a>
 </td>
 <td width="50%" valign="top">
 <p><img src="assets/icons/layers.svg" alt="" width="25" height="25" /> <strong>02 / Student Portfolio</strong></p>
 <p>A portfolio website project for presenting personal and development work.</p>
-<p><img alt="Portfolio web design" src="https://img.shields.io/badge/Portfolio-Web%20design-12556A?style=flat-square" /></p>
+<p>
+<img src="assets/project-badges/portfolio.svg" alt="Portfolio" height="34" />
+<img src="assets/project-badges/web-design.svg" alt="Web Design" height="34" />
+</p>
 <a href="https://github.com/FaizyabBajwa/student-portfolio"><img src="https://img.shields.io/badge/View-Source-0D787C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Student Portfolio source on GitHub" /></a>
 </td>
 </tr>
@@ -86,13 +92,19 @@ I also design interfaces in Figma and develop responsive frontends using React.j
 <td width="50%" valign="top">
 <p><img src="assets/icons/brain.svg" alt="" width="25" height="25" /> <strong>03 / Mental Health FYP</strong></p>
 <p>A university repository focused on a mental-health-related software concept.</p>
-<p><img alt="University final-year work" src="https://img.shields.io/badge/University-Final%20year%20work-12556A?style=flat-square" /></p>
+<p>
+<img src="assets/project-badges/university.svg" alt="University Work" height="34" />
+<img src="assets/project-badges/mental-health.svg" alt="Mental Health" height="34" />
+</p>
 <a href="https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health"><img src="https://img.shields.io/badge/View-Source-0D787C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Mental Health FYP source on GitHub" /></a>
 </td>
 <td width="50%" valign="top">
 <p><img src="assets/icons/globe.svg" alt="" width="25" height="25" /> <strong>04 / Local Tourism Website</strong></p>
 <p>A website project built around local tourism information and presentation.</p>
-<p><img alt="Web tourism concept" src="https://img.shields.io/badge/Web-Tourism%20concept-12556A?style=flat-square" /></p>
+<p>
+<img src="assets/project-badges/tourism.svg" alt="Tourism Site" height="34" />
+<img src="assets/project-badges/web-project.svg" alt="Web Project" height="34" />
+</p>
 <a href="https://github.com/FaizyabBajwa/local-tourism-website"><img src="https://img.shields.io/badge/View-Source-0D787C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Local Tourism Website source on GitHub" /></a>
 </td>
 </tr>
@@ -110,6 +122,11 @@ Seven selected projects from my resume, including direct UI/UX and frontend deve
 <tr><td valign="top">
 <img src="assets/case-studies/benzi-ai.svg" alt="BENZI AI — Therapist &amp; Patient Care Platform project card" width="100%" />
 <p><strong>BENZI AI — Therapist &amp; Patient Care Platform</strong><br/><sub>Final-year project · Direct UI/UX design and frontend development · Jan 2026</sub></p>
+<p>
+<img src="assets/project-badges/uiux.svg" alt="Ui/Ux Design" height="34" />
+<img src="assets/project-badges/react.svg" alt="React Frontend" height="34" />
+<img src="assets/project-badges/portals.svg" alt="3 Portals" height="34" />
+</p>
 <p>Designed the complete UI/UX for three connected portals—patient, therapist, and administrator—including wireframes, user flows, reusable components, and a shared design system. I personally developed the responsive patient and therapist frontend interfaces in React.js, turning the Figma designs into working screens.</p>
 <p><strong>Tools / project stack:</strong> Figma · React.js</p>
 </td></tr>
@@ -121,6 +138,11 @@ Seven selected projects from my resume, including direct UI/UX and frontend deve
 <tr><td valign="top">
 <img src="assets/case-studies/krim.svg" alt="Krim Christian Study Platform project card" width="100%" />
 <p><strong>Krim Christian Study Platform</strong><br/><sub>UI/UX designer · Interface concepts and prototypes · Sep 2026</sub></p>
+<p>
+<img src="assets/project-badges/figma.svg" alt="Figma Prototypes" height="34" />
+<img src="assets/project-badges/variants.svg" alt="3 Design Variants" height="34" />
+<img src="assets/project-badges/client-design.svg" alt="Client Design" height="34" />
+</p>
 <p>Designed three distinct interface directions for a Christian study and reading platform, giving the client alternatives to evaluate before choosing a design approach. Produced high-fidelity, developer-ready Figma prototypes of the core screens and user flows.</p>
 <p><strong>Tools / project stack:</strong> Figma · Three design variants</p>
 </td></tr>
@@ -132,6 +154,11 @@ Seven selected projects from my resume, including direct UI/UX and frontend deve
 <tr><td valign="top">
 <img src="assets/case-studies/bin-abbas.svg" alt="Bin Abbas J. Clone E-Commerce Platform project card" width="100%" />
 <p><strong>Bin Abbas J. Clone E-Commerce Platform</strong><br/><sub>Technical project coordination · Two-month delivery · Jul–Aug 2026</sub></p>
+<p>
+<img src="assets/project-badges/coordination.svg" alt="Coordination" height="34" />
+<img src="assets/project-badges/qa.svg" alt="Qa Oversight" height="34" />
+<img src="assets/project-badges/ecommerce.svg" alt="E-Commerce" height="34" />
+</p>
 <p>Managed the workflow of a two-month e-commerce build covering the storefront, frontend, backend, database, admin panel, and checkout. Coordinated client discussions, task assignments, progress tracking, and documentation. Oversaw quality checks for storefront and checkout workflows using the development team’s Playwright and Vitest test coverage.</p>
 <p><strong>Tools / project stack:</strong> Next.js · Team QA coverage: Playwright, Vitest</p>
 </td></tr>
@@ -143,6 +170,11 @@ Seven selected projects from my resume, including direct UI/UX and frontend deve
 <tr><td valign="top">
 <img src="assets/case-studies/pca.svg" alt="Pakistan Citizens Alliance (PCA) Donation Platform project card" width="100%" />
 <p><strong>Pakistan Citizens Alliance (PCA) Donation Platform</strong><br/><sub>Technical project coordination · Full-stack platform expansion · Apr–Jun 2026</sub></p>
+<p>
+<img src="assets/project-badges/payments.svg" alt="Payments" height="34" />
+<img src="assets/project-badges/integrations.svg" alt="Integrations" height="34" />
+<img src="assets/project-badges/admin.svg" alt="Admin Workflows" height="34" />
+</p>
 <p>Coordinated a multi-phase expansion of an existing frontend into a full-stack donation platform, including backend work, payment integration, admin dashboard improvements, and additional pages. Managed requirements for three integrations—PayFast payments, Cloudinary uploads, and Nodemailer emails—and supported development coordination, QA, documentation, and client handoff.</p>
 <p><strong>Tools / project stack:</strong> Next.js · PostgreSQL · Prisma · Redux Toolkit · PayFast</p>
 </td></tr>
@@ -154,6 +186,11 @@ Seven selected projects from my resume, including direct UI/UX and frontend deve
 <tr><td valign="top">
 <img src="assets/case-studies/legalease.svg" alt="LegalEase AI — Legal-Document Assistant project card" width="100%" />
 <p><strong>LegalEase AI — Legal-Document Assistant</strong><br/><sub>Technical project coordination · AI document workflows · Jun 2026</sub></p>
+<p>
+<img src="assets/project-badges/ai-workflow.svg" alt="Ai Workflows" height="34" />
+<img src="assets/project-badges/ocr.svg" alt="Ocr Ingestion" height="34" />
+<img src="assets/project-badges/documentation.svg" alt="Documentation" height="34" />
+</p>
 <p>Coordinated the workflow, requirements, and documentation for an AI legal-document assistant with five core capabilities: clause classification, risk scoring, plain-English simplification, document drafting, and chatbot interaction. Also managed requirements for OCR-based document ingestion and lawyer-consultation marketplace features.</p>
 <p><strong>Tools / project stack:</strong> FastAPI · MongoDB · Hugging Face · OCR</p>
 </td></tr>
@@ -165,6 +202,11 @@ Seven selected projects from my resume, including direct UI/UX and frontend deve
 <tr><td valign="top">
 <img src="assets/case-studies/american-auto.svg" alt="American Auto Salvage — US Auto Parts Marketplace project card" width="100%" />
 <p><strong>American Auto Salvage — US Auto Parts Marketplace</strong><br/><sub>Technical project coordination · Storefront and catalog operations · Feb–Apr 2026</sub></p>
+<p>
+<img src="assets/project-badges/catalog.svg" alt="Catalog Work" height="34" />
+<img src="assets/project-badges/listings.svg" alt="100K+ Listings" height="34" />
+<img src="assets/project-badges/orders.svg" alt="Order Workflows" height="34" />
+</p>
 <p>Coordinated work on the auto-parts storefront and administration platform, while helping manage the import and organization of more than 100,000 product listings against client catalog deadlines. Supported workflows for product categories, vehicle models, orders, user permissions, and customer inquiries, and documented admin and order-management processes for handoff.</p>
 <p><strong>Tools / project stack:</strong> React · Vite</p>
 </td></tr>
@@ -176,6 +218,11 @@ Seven selected projects from my resume, including direct UI/UX and frontend deve
 <tr><td valign="top">
 <img src="assets/case-studies/green-eye.svg" alt="Green Eye — AI-Powered Recycling App project card" width="100%" />
 <p><strong>Green Eye — AI-Powered Recycling App</strong><br/><sub>Technical project coordination · Web, backend, and mobile workflows · Jan–Feb 2026</sub></p>
+<p>
+<img src="assets/project-badges/vision.svg" alt="Ai Vision" height="34" />
+<img src="assets/project-badges/mobile.svg" alt="Flutter Mobile" height="34" />
+<img src="assets/project-badges/coordination.svg" alt="Coordination" height="34" />
+</p>
 <p>Coordinated a one-month build spanning three areas: the backend, an admin dashboard, and a Flutter mobile application. Managed requirements for OpenAI Vision-powered recycling scans, location-aware recycling-center searches, and community contribution and review features. Maintained project documentation and client–development communication.</p>
 <p><strong>Tools / project stack:</strong> Node.js / Express · MongoDB · OpenAI · Flutter</p>
 </td></tr>
