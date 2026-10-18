@@ -16,9 +16,9 @@
 <rect x="56" y="44" width="160" height="28" rx="14" fill="#2dd4bf" fill-opacity=".13" stroke="#2dd4bf" stroke-opacity=".45"/>
 <text x="136" y="63" text-anchor="middle" fill="#99f6e4" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">PORTFOLIO / 2026</text>
 <text x="54" y="157" fill="#f8fafc" font-family="Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="1.2">FAIZYAB AHMAD</text>
-<text x="58" y="193" fill="#a9c7d4" font-family="Arial,sans-serif" font-size="18">Software Engineer · UI/UX · Full-Stack · AI Integration</text>
+<text x="58" y="193" fill="#a9c7d4" font-family="Arial,sans-serif" font-size="18">Software Engineer · Project Coordinator · UI/UX</text>
 <rect x="58" y="224" width="340" height="3" rx="2" fill="#2dd4bf"><animate attributeName="width" values="170;340;170" dur="6s" repeatCount="indefinite"/></rect>
-<text x="58" y="270" fill="#d9e8ef" font-family="Arial,sans-serif" font-size="16">Ideas into interfaces. Requirements into real products.</text>
-<text x="58" y="318" fill="#64cfc6" font-family="monospace" font-size="12" letter-spacing="2">DESIGN  /  ENGINEERING  /  DELIVERY</text>
+<text x="58" y="270" fill="#d9e8ef" font-family="Arial,sans-serif" font-size="16">From interface design to coordinated software delivery.</text>
+<text x="58" y="318" fill="#64cfc6" font-family="monospace" font-size="12" letter-spacing="2">REACT FRONTENDS  /  FIGMA DESIGN  /  SOFTWARE DELIVERY</text>
 </g>
 </svg>

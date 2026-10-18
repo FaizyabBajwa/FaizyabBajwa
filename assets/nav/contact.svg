@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="43" viewBox="0 0 148 43" role="img" aria-label="CONTACT">
+<defs><linearGradient id="nav-contact-bg" x2="1" y2="1"><stop stop-color="#0D2437"/><stop offset="1" stop-color="#14566A"/></linearGradient></defs>
+<rect x=".8" y=".8" width="146.4" height="41.4" rx="11" fill="url(#nav-contact-bg)" stroke="#347C86" stroke-width="1.3"/>
+<g transform="translate(10 6) scale(.82)" stroke="#5EEAD4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M5 9h28v20H5zM6 11l13 11 13-11"/></g>
+<text x="44" y="27" fill="#F8FAFC" font-family="Arial,sans-serif" font-weight="700" font-size="14" letter-spacing=".7">CONTACT</text></svg>
