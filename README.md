@@ -1,4 +1,4 @@
-<!-- Faizyab Ahmad | GitHub-compatible navy + teal developer portfolio -->
+<!-- Faizyab Ahmad | Navy + teal portfolio | All seven resume projects featured; no private code or phone number -->
 
 <a id="top"></a>
 
@@ -41,8 +41,8 @@
 <a id="about-me"></a>
 <img src="assets/about.svg" alt="01 — About me" width="100%" />
 I'm Faizyab Ahmad, a Software Engineer and 2026 BS Computer Science graduate from the University of Central Punjab. My experience includes frontend development, UI/UX design, client communication, and technical project coordination.
-Since January 2026, I have worked on independent client projects as a Technical Project Coordinator / Software Engineer. I gather requirements, organize development tasks, track progress, discuss feedback with clients, and support QA, documentation, and final delivery.
-I also build user interfaces with React.js. For my BENZI AI final-year project, I designed the interfaces for three user portals and personally developed the responsive patient and therapist frontends. I value teamwork, clear communication, and solving practical problems.
+Since January 2026, I have worked on independent client projects as a Technical Project Coordinator / Software Engineer. I gather requirements, translate them into technical tasks, coordinate small development teams, review progress with clients, and prepare QA and handoff documentation.
+I also design interfaces in Figma and develop responsive frontends using React.js. My seven selected resume projects below demonstrate both hands-on design/development contributions and project coordination across web, mobile, and AI-related products.
 
 <div align="center">
 <table width="100%">
@@ -99,57 +99,89 @@ I also build user interfaces with React.js. For my BENZI AI final-year project, 
 </table>
 
 <a id="project-experience"></a>
-<img src="assets/experience.svg" alt="03 — Project experience" width="100%" />
-The following projects are listed in my resume. I distinguish the work I personally designed or developed from projects where I coordinated tasks, requirements, testing, and delivery. These are not presented as public repositories.
+<img src="assets/experience.svg" alt="03 — Seven projects from my resume" width="100%" />
+Seven selected projects from my resume, including direct UI/UX and frontend development as well as software project coordination. These project summaries are based on my documented responsibilities; they are not being presented as public source repositories.
+
+<p><strong>Design &amp; frontend implementation:</strong> BENZI AI and Krim &nbsp;·&nbsp; <strong>Project coordination:</strong> Bin Abbas J., PCA, LegalEase AI, American Auto Salvage, and Green Eye</p>
+
+<a id="benzi-ai"></a>
 
 <table width="100%">
-<tr>
-<td width="28%" valign="top">
-<p><img src="assets/icons/brain.svg" alt="" width="29" height="29" /></p>
-<strong>BENZI AI</strong><br/><sub>UI/UX · React.js · Figma</sub>
-</td>
-<td valign="top">
-<strong>Therapist &amp; Patient Care Platform</strong>
-<p>Designed the UI/UX for three portals—patient, therapist, and admin—including wireframes, user flows, reusable components, and a shared design system. I personally built the patient and therapist frontend interfaces in React.js from Figma designs.</p>
-<img src="https://img.shields.io/badge/React-0D2437?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Figma-0D2437?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-</td>
-</tr>
-<tr>
-<td width="28%" valign="top">
-<p><img src="assets/icons/file.svg" alt="" width="29" height="29" /></p>
-<strong>LegalEase AI</strong><br/><sub>Project coordination</sub>
-</td>
-<td valign="top">
-<strong>Legal-Document Assistant</strong>
-<p>Coordinated requirements and documentation for an AI legal-document assistant with clause classification, risk scoring, plain-English explanations, document drafting, and chatbot features. I also coordinated requirements for OCR-based document uploads and lawyer-consultation features. The project used FastAPI, MongoDB, Hugging Face, and OCR.</p>
-<img src="https://img.shields.io/badge/FastAPI-0D2437?style=flat-square&amp;logo=fastapi&amp;logoColor=5EEAD4" alt="FastAPI" /> <img src="https://img.shields.io/badge/MongoDB-0D2437?style=flat-square&amp;logo=mongodb&amp;logoColor=4DB33D" alt="MongoDB" />
-</td>
-</tr>
-<tr>
-<td width="28%" valign="top">
-<p><img src="assets/icons/heart.svg" alt="" width="29" height="29" /></p>
-<strong>PCA Donation Platform</strong><br/><sub>Project coordination</sub>
-</td>
-<td valign="top">
-<strong>Full-Stack Donation System</strong>
-<p>Coordinated a multi-phase upgrade from a frontend project to a full-stack donation platform. I worked with the development team on requirements for PayFast payments, Cloudinary uploads, and Nodemailer emails, and supported dashboard improvements, QA, documentation, and client handoff. The project used Next.js, PostgreSQL, Prisma, and Redux Toolkit.</p>
-<img src="https://img.shields.io/badge/Next.js-0D2437?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/PostgreSQL-0D2437?style=flat-square&amp;logo=postgresql&amp;logoColor=86B8E8" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-0D2437?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
-</td>
-</tr>
+<tr><td valign="top">
+<img src="assets/case-studies/benzi-ai.svg" alt="BENZI AI — Therapist &amp; Patient Care Platform project card" width="100%" />
+<p><strong>BENZI AI — Therapist &amp; Patient Care Platform</strong><br/><sub>Final-year project · Direct UI/UX design and frontend development · Jan 2026</sub></p>
+<p>Designed the complete UI/UX for three connected portals—patient, therapist, and administrator—including wireframes, user flows, reusable components, and a shared design system. I personally developed the responsive patient and therapist frontend interfaces in React.js, turning the Figma designs into working screens.</p>
+<p><strong>Tools / project stack:</strong> Figma · React.js</p>
+</td></tr>
 </table>
 
-<details>
-<summary><strong>More projects from my resume</strong></summary>
+<a id="krim"></a>
 
 <table width="100%">
-<tr><td valign="top" width="28%"><strong>Krim Christian Study Platform</strong><br/><sub>Sep 2026 · UI/UX design</sub></td><td>Created three different interface designs and high-fidelity Figma prototypes for a Christian study and reading platform, giving the client options for its core screens and user flows.</td></tr>
-<tr><td valign="top"><strong>Bin Abbas J. E-Commerce Platform</strong><br/><sub>Jul–Aug 2026 · Project coordination</sub></td><td>Coordinated development work across the storefront, backend, database, admin panel, and checkout. Followed project progress and oversaw QA of key shopping workflows using the team's Playwright and Vitest tests.</td></tr>
-<tr><td valign="top"><strong>American Auto Salvage</strong><br/><sub>Feb–Apr 2026 · Project coordination</sub></td><td>Coordinated work on an auto-parts storefront and admin system, including organizing more than 100,000 product listings, order workflows, access permissions, and handoff documentation.</td></tr>
-<tr><td valign="top"><strong>Green Eye Recycling App</strong><br/><sub>Jan–Feb 2026 · Project coordination</sub></td><td>Coordinated requirements for an AI-powered recycling platform spanning a backend, admin dashboard, and Flutter app. The project included OpenAI Vision recycling scans and recycling-center search.</td></tr>
+<tr><td valign="top">
+<img src="assets/case-studies/krim.svg" alt="Krim Christian Study Platform project card" width="100%" />
+<p><strong>Krim Christian Study Platform</strong><br/><sub>UI/UX designer · Interface concepts and prototypes · Sep 2026</sub></p>
+<p>Designed three distinct interface directions for a Christian study and reading platform, giving the client alternatives to evaluate before choosing a design approach. Produced high-fidelity, developer-ready Figma prototypes of the core screens and user flows.</p>
+<p><strong>Tools / project stack:</strong> Figma · Three design variants</p>
+</td></tr>
 </table>
 
-</details>
+<a id="bin-abbas"></a>
 
+<table width="100%">
+<tr><td valign="top">
+<img src="assets/case-studies/bin-abbas.svg" alt="Bin Abbas J. Clone E-Commerce Platform project card" width="100%" />
+<p><strong>Bin Abbas J. Clone E-Commerce Platform</strong><br/><sub>Technical project coordination · Two-month delivery · Jul–Aug 2026</sub></p>
+<p>Managed the workflow of a two-month e-commerce build covering the storefront, frontend, backend, database, admin panel, and checkout. Coordinated client discussions, task assignments, progress tracking, and documentation. Oversaw quality checks for storefront and checkout workflows using the development team’s Playwright and Vitest test coverage.</p>
+<p><strong>Tools / project stack:</strong> Next.js · Team QA coverage: Playwright, Vitest</p>
+</td></tr>
+</table>
+
+<a id="pca"></a>
+
+<table width="100%">
+<tr><td valign="top">
+<img src="assets/case-studies/pca.svg" alt="Pakistan Citizens Alliance (PCA) Donation Platform project card" width="100%" />
+<p><strong>Pakistan Citizens Alliance (PCA) Donation Platform</strong><br/><sub>Technical project coordination · Full-stack platform expansion · Apr–Jun 2026</sub></p>
+<p>Coordinated a multi-phase expansion of an existing frontend into a full-stack donation platform, including backend work, payment integration, admin dashboard improvements, and additional pages. Managed requirements for three integrations—PayFast payments, Cloudinary uploads, and Nodemailer emails—and supported development coordination, QA, documentation, and client handoff.</p>
+<p><strong>Tools / project stack:</strong> Next.js · PostgreSQL · Prisma · Redux Toolkit · PayFast</p>
+</td></tr>
+</table>
+
+<a id="legalease"></a>
+
+<table width="100%">
+<tr><td valign="top">
+<img src="assets/case-studies/legalease.svg" alt="LegalEase AI — Legal-Document Assistant project card" width="100%" />
+<p><strong>LegalEase AI — Legal-Document Assistant</strong><br/><sub>Technical project coordination · AI document workflows · Jun 2026</sub></p>
+<p>Coordinated the workflow, requirements, and documentation for an AI legal-document assistant with five core capabilities: clause classification, risk scoring, plain-English simplification, document drafting, and chatbot interaction. Also managed requirements for OCR-based document ingestion and lawyer-consultation marketplace features.</p>
+<p><strong>Tools / project stack:</strong> FastAPI · MongoDB · Hugging Face · OCR</p>
+</td></tr>
+</table>
+
+<a id="american-auto"></a>
+
+<table width="100%">
+<tr><td valign="top">
+<img src="assets/case-studies/american-auto.svg" alt="American Auto Salvage — US Auto Parts Marketplace project card" width="100%" />
+<p><strong>American Auto Salvage — US Auto Parts Marketplace</strong><br/><sub>Technical project coordination · Storefront and catalog operations · Feb–Apr 2026</sub></p>
+<p>Coordinated work on the auto-parts storefront and administration platform, while helping manage the import and organization of more than 100,000 product listings against client catalog deadlines. Supported workflows for product categories, vehicle models, orders, user permissions, and customer inquiries, and documented admin and order-management processes for handoff.</p>
+<p><strong>Tools / project stack:</strong> React · Vite</p>
+</td></tr>
+</table>
+
+<a id="green-eye"></a>
+
+<table width="100%">
+<tr><td valign="top">
+<img src="assets/case-studies/green-eye.svg" alt="Green Eye — AI-Powered Recycling App project card" width="100%" />
+<p><strong>Green Eye — AI-Powered Recycling App</strong><br/><sub>Technical project coordination · Web, backend, and mobile workflows · Jan–Feb 2026</sub></p>
+<p>Coordinated a one-month build spanning three areas: the backend, an admin dashboard, and a Flutter mobile application. Managed requirements for OpenAI Vision-powered recycling scans, location-aware recycling-center searches, and community contribution and review features. Maintained project documentation and client–development communication.</p>
+<p><strong>Tools / project stack:</strong> Node.js / Express · MongoDB · OpenAI · Flutter</p>
+</td></tr>
+</table>
+
+<sub>Role clarity: Technology stacks for coordinated projects refer to technologies used by the project team. They do not imply I personally programmed every component. Client projects are not linked to private repositories.</sub>
 <a id="technical-toolkit"></a>
 <img src="assets/toolkit.svg" alt="04 — Technical toolkit" width="100%" />
 
