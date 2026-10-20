@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="246" viewBox="0 0 680 246" role="img" aria-label="Local Tourism project artwork">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101D35"/><stop offset="0.55" stop-color="#0A1C31"/><stop offset="1" stop-color="#10102C"/></linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FACB81"/><stop offset="1" stop-color="#65AEFF"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B3452" stop-opacity=".84"/><stop offset="1" stop-color="#102036" stop-opacity=".93"/></linearGradient>
+    <radialGradient id="flare"><stop offset="0" stop-color="#65AEFF" stop-opacity=".29"/><stop offset="1" stop-color="#65AEFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="flare2"><stop offset="0" stop-color="#FACB81" stop-opacity=".18"/><stop offset="1" stop-color="#FACB81" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#A8D0FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="shadow" x="-30%" y="-50%" width="180%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="680" height="246" rx="20" fill="url(#bg)"/>
+  <rect width="680" height="246" rx="20" fill="url(#grid)"/>
+  <ellipse cx="598" cy="44" rx="312" ry="216" fill="url(#flare)"/>
+  <ellipse cx="47" cy="221" rx="258" ry="157" fill="url(#flare2)"/>
+  <rect x=".75" y=".75" width="678.5" height="244.5" rx="20" fill="none" stroke="#96B9E9" stroke-opacity=".19" stroke-width="1.5"/>
+<text x="26" y="41" fill="#FACB81" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.3">PUBLIC REPOSITORY</text><text x="26" y="114" fill="#ECF7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="39" font-weight="800" letter-spacing="-0.5">Local Tourism</text><text x="27" y="146" fill="#9CB2CB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Informational web project</text><rect x="27" y="179" width="86" height="5" rx="2.5" fill="url(#hot)"/><rect x="420" y="32" width="203" height="176" rx="12" fill="#152D46" stroke="#A5C4E6" stroke-opacity="0.3" /><path d="M420 159L470 102l33 30 37 -46 83 85v37H420Z" fill="#FACB81" opacity=".22"/><path d="M420 170l53 -48 33 26 35 -39 82 71" fill="none" stroke="#FACB81" stroke-width="2.5"/><circle cx="560" cy="82" r="14" fill="#FACB81" opacity=".7"/></svg>

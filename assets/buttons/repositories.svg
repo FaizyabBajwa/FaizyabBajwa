@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="56" viewBox="0 0 288 56" role="img" aria-label="EXPLORE REPOSITORIES button">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101D35"/><stop offset="0.55" stop-color="#0A1C31"/><stop offset="1" stop-color="#10102C"/></linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#65AEFF"/><stop offset="1" stop-color="#A18CFF"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B3452" stop-opacity=".84"/><stop offset="1" stop-color="#102036" stop-opacity=".93"/></linearGradient>
+    <radialGradient id="flare"><stop offset="0" stop-color="#A18CFF" stop-opacity=".29"/><stop offset="1" stop-color="#A18CFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="flare2"><stop offset="0" stop-color="#65AEFF" stop-opacity=".18"/><stop offset="1" stop-color="#65AEFF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#A8D0FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="shadow" x="-30%" y="-50%" width="180%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="288" height="56" rx="14" fill="url(#bg)"/>
+  <rect width="288" height="56" rx="14" fill="url(#grid)"/>
+  <ellipse cx="253" cy="10" rx="132" ry="49" fill="url(#flare)"/>
+  <ellipse cx="20" cy="50" rx="109" ry="35" fill="url(#flare2)"/>
+  <rect x=".75" y=".75" width="286.5" height="54.5" rx="14" fill="none" stroke="#96B9E9" stroke-opacity=".19" stroke-width="1.5"/>
+<rect x="3" y="3" width="282" height="50" rx="12" fill="url(#hot)" opacity=".10"/><circle cx="27" cy="28" r="7" fill="#65AEFF" opacity=".90" /><text x="44" y="34" fill="#ECF7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="0.45">EXPLORE REPOSITORIES</text><text x="270" y="35" fill="#65AEFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" text-anchor="end">↗</text></svg>

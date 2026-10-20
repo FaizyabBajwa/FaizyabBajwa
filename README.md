@@ -1,306 +1,219 @@
-<!-- Faizyab Ahmad | Navy + teal portfolio | Project icon badges are local SVGs; no private code or phone number -->
-
+<!-- GitHub profile README | GitHub-compatible gradients are embedded in local SVG assets. No external CSS, scripts, fabricated metrics, or private repository links. -->
 <a id="top"></a>
+<table width="100%">
+<tr>
+<td align="left" valign="middle" width="32%"><a href="#top"><img src="assets/brand.svg" alt="Faizyab Ahmad portfolio" width="244" /></a></td>
+<td align="right" valign="middle"><a href="#top"><strong>Home</strong></a> &nbsp;·&nbsp; <a href="#services"><strong>Services</strong></a> &nbsp;·&nbsp; <a href="#projects"><strong>Projects</strong></a> &nbsp;·&nbsp; <a href="#faqs"><strong>FAQs</strong></a> &nbsp;·&nbsp; <a href="#contact"><strong>Contact</strong></a> &nbsp;·&nbsp; <a href="#conclusion"><strong>Conclusion</strong></a></td>
+</tr>
+</table>
 
+<!-- HERO -->
 <div align="center">
+<a href="#projects"><img src="assets/hero.svg" width="100%" alt="Faizyab Ahmad — building clear React interfaces, thoughtful product design and reliable technical delivery" /></a>
 
-<img src="assets/hero.svg" alt="Faizyab Ahmad — Software Engineer, UI/UX and full-stack developer" width="100%" />
-
-<img src="assets/typing.svg" alt="Building thoughtful interfaces and reliable software" width="100%" />
-
-<p><strong>Software Engineer · Technical Project Coordinator</strong><br/>BS Computer Science (2026) · University of Central Punjab</p>
-
+<p><strong>Software Engineer · Technical Project Coordinator</strong> &nbsp;|&nbsp; BS Computer Science (2026), University of Central Punjab</p>
+<p>Frontend development, UI/UX design, and project delivery—from client requirements and implementation to QA review and handoff.</p>
 <p>
-<img src="assets/icons/code.svg" alt="Development" width="24" height="24" /> &nbsp;
-<img src="assets/icons/pen.svg" alt="Design" width="24" height="24" /> &nbsp;
-<img src="assets/icons/sparkles.svg" alt="AI integration" width="24" height="24" /> &nbsp;
-<img src="assets/icons/check.svg" alt="Quality" width="24" height="24" />
+<a href="https://github.com/FaizyabBajwa?tab=repositories"><img alt="Browse GitHub projects" src="assets/buttons/repositories.svg" width="220" /></a>
+<a href="https://www.linkedin.com/in/faizyab-a-4b3309372/"><img alt="Connect with Faizyab on LinkedIn" src="assets/buttons/linkedin.svg" width="220" /></a>
 </p>
-
-<p>I work on <strong>React interfaces</strong>, <strong>UI/UX design</strong>, and <strong>software delivery</strong>—from understanding client requirements to coordinating development, testing, and handoff.</p>
-
-<p>
-<a href="https://github.com/FaizyabBajwa"><img alt="Explore my GitHub projects" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-0D2437?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/faizyab-a-4b3309372/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0D787C?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-</p>
-
 </div>
 
-<!-- The navigation is made from entire clickable SVG pills, avoiding icon/text baseline differences. -->
-<div align="center">
+<a id="services"></a>
+<img src="assets/section-services.svg" alt="Services — How I contribute" width="100%" />
 
-<a href="#about-me"><img src="assets/nav/about.svg" alt="About" height="38" /></a>
-<a href="#featured-projects"><img src="assets/nav/projects.svg" alt="Projects" height="38" /></a>
-<a href="#project-experience"><img src="assets/nav/experience.svg" alt="Experience" height="38" /></a>
-<a href="#technical-toolkit"><img src="assets/nav/skills.svg" alt="Skills" height="38" /></a>
-<a href="#github-activity"><img src="assets/nav/activity.svg" alt="Activity" height="38" /></a>
-<a href="#lets-connect"><img src="assets/nav/contact.svg" alt="Contact" height="38" /></a>
-
-</div>
-
-<a id="about-me"></a>
-<img src="assets/about.svg" alt="01 — About me" width="100%" />
-I'm Faizyab Ahmad, a Software Engineer and 2026 BS Computer Science graduate from the University of Central Punjab. My experience includes frontend development, UI/UX design, client communication, and technical project coordination.
-Since January 2026, I have worked on independent client projects as a Technical Project Coordinator / Software Engineer. I gather requirements, translate them into technical tasks, coordinate small development teams, review progress with clients, and prepare QA and handoff documentation.
-I also design interfaces in Figma and develop responsive frontends using React.js. My seven selected resume projects below demonstrate both hands-on design/development contributions and project coordination across web, mobile, and AI-related products.
-
-<div align="center">
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<p><img src="assets/icons/code.svg" width="29" height="29" alt="" /></p>
-<strong>BUILDING</strong><br/>React.js · Responsive UI
-</td>
-<td width="34%" align="center" valign="top">
-<p><img src="assets/icons/sparkles.svg" width="29" height="29" alt="" /></p>
-<strong>COORDINATING</strong><br/>Client requirements · Delivery
-</td>
-<td width="33%" align="center" valign="top">
-<p><img src="assets/icons/check.svg" width="29" height="29" alt="" /></p>
-<strong>IMPROVING</strong><br/>QA · Documentation
-</td>
-</tr>
-</table>
-</div>
-
-<a id="featured-projects"></a>
-<img src="assets/projects.svg" alt="02 — Featured projects" width="100%" />
-<img src="assets/icons/rocket.svg" alt="" width="21" height="21" /> These are my public GitHub repositories. My client projects and final-year project contributions are listed separately below.
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<p><img src="assets/icons/code.svg" alt="" width="25" height="25" /> <strong>01 / ToDesktop</strong></p>
-<p>A frontend practice project recreating a ToDesktop-inspired website experience.</p>
-<p>
-<img src="assets/project-badges/frontend.svg" alt="Frontend" height="34" />
-<img src="assets/project-badges/ui-recreation.svg" alt="Ui Recreation" height="34" />
-</p>
-<a href="https://github.com/FaizyabBajwa/ToDesktop"><img src="https://img.shields.io/badge/View-Source-0D787C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View ToDesktop source on GitHub" /></a>
-</td>
-<td width="50%" valign="top">
-<p><img src="assets/icons/layers.svg" alt="" width="25" height="25" /> <strong>02 / Student Portfolio</strong></p>
-<p>A portfolio website project for presenting personal and development work.</p>
-<p>
-<img src="assets/project-badges/portfolio.svg" alt="Portfolio" height="34" />
-<img src="assets/project-badges/web-design.svg" alt="Web Design" height="34" />
-</p>
-<a href="https://github.com/FaizyabBajwa/student-portfolio"><img src="https://img.shields.io/badge/View-Source-0D787C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Student Portfolio source on GitHub" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><img src="assets/icons/brain.svg" alt="" width="25" height="25" /> <strong>03 / Mental Health FYP</strong></p>
-<p>A university repository focused on a mental-health-related software concept.</p>
-<p>
-<img src="assets/project-badges/university.svg" alt="University Work" height="34" />
-<img src="assets/project-badges/mental-health.svg" alt="Mental Health" height="34" />
-</p>
-<a href="https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health"><img src="https://img.shields.io/badge/View-Source-0D787C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Mental Health FYP source on GitHub" /></a>
-</td>
-<td width="50%" valign="top">
-<p><img src="assets/icons/globe.svg" alt="" width="25" height="25" /> <strong>04 / Local Tourism Website</strong></p>
-<p>A website project built around local tourism information and presentation.</p>
-<p>
-<img src="assets/project-badges/tourism.svg" alt="Tourism Site" height="34" />
-<img src="assets/project-badges/web-project.svg" alt="Web Project" height="34" />
-</p>
-<a href="https://github.com/FaizyabBajwa/local-tourism-website"><img src="https://img.shields.io/badge/View-Source-0D787C?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Local Tourism Website source on GitHub" /></a>
-</td>
-</tr>
-</table>
-
-<a id="project-experience"></a>
-<img src="assets/experience.svg" alt="03 — Seven projects from my resume" width="100%" />
-Seven selected projects from my resume, including direct UI/UX and frontend development as well as software project coordination. These project summaries are based on my documented responsibilities; they are not being presented as public source repositories.
-
-<p><strong>Design &amp; frontend implementation:</strong> BENZI AI and Krim &nbsp;·&nbsp; <strong>Project coordination:</strong> Bin Abbas J., PCA, LegalEase AI, American Auto Salvage, and Green Eye</p>
-
-<a id="benzi-ai"></a>
-
-<table width="100%">
-<tr><td valign="top">
-<img src="assets/case-studies/benzi-ai.svg" alt="BENZI AI — Therapist &amp; Patient Care Platform project card" width="100%" />
-<p><strong>BENZI AI — Therapist &amp; Patient Care Platform</strong><br/><sub>Final-year project · Direct UI/UX design and frontend development · Jan 2026</sub></p>
-<p>
-<img src="assets/project-badges/uiux.svg" alt="Ui/Ux Design" height="34" />
-<img src="assets/project-badges/react.svg" alt="React Frontend" height="34" />
-<img src="assets/project-badges/portals.svg" alt="3 Portals" height="34" />
-</p>
-<p>Designed the complete UI/UX for three connected portals—patient, therapist, and administrator—including wireframes, user flows, reusable components, and a shared design system. I personally developed the responsive patient and therapist frontend interfaces in React.js, turning the Figma designs into working screens.</p>
-<p><strong>Tools / project stack:</strong> Figma · React.js</p>
-</td></tr>
-</table>
-
-<a id="krim"></a>
-
-<table width="100%">
-<tr><td valign="top">
-<img src="assets/case-studies/krim.svg" alt="Krim Christian Study Platform project card" width="100%" />
-<p><strong>Krim Christian Study Platform</strong><br/><sub>UI/UX designer · Interface concepts and prototypes · Sep 2026</sub></p>
-<p>
-<img src="assets/project-badges/figma.svg" alt="Figma Prototypes" height="34" />
-<img src="assets/project-badges/variants.svg" alt="3 Design Variants" height="34" />
-<img src="assets/project-badges/client-design.svg" alt="Client Design" height="34" />
-</p>
-<p>Designed three distinct interface directions for a Christian study and reading platform, giving the client alternatives to evaluate before choosing a design approach. Produced high-fidelity, developer-ready Figma prototypes of the core screens and user flows.</p>
-<p><strong>Tools / project stack:</strong> Figma · Three design variants</p>
-</td></tr>
-</table>
-
-<a id="bin-abbas"></a>
-
-<table width="100%">
-<tr><td valign="top">
-<img src="assets/case-studies/bin-abbas.svg" alt="Bin Abbas J. Clone E-Commerce Platform project card" width="100%" />
-<p><strong>Bin Abbas J. Clone E-Commerce Platform</strong><br/><sub>Technical project coordination · Two-month delivery · Jul–Aug 2026</sub></p>
-<p>
-<img src="assets/project-badges/coordination.svg" alt="Coordination" height="34" />
-<img src="assets/project-badges/qa.svg" alt="Qa Oversight" height="34" />
-<img src="assets/project-badges/ecommerce.svg" alt="E-Commerce" height="34" />
-</p>
-<p>Managed the workflow of a two-month e-commerce build covering the storefront, frontend, backend, database, admin panel, and checkout. Coordinated client discussions, task assignments, progress tracking, and documentation. Oversaw quality checks for storefront and checkout workflows using the development team’s Playwright and Vitest test coverage.</p>
-<p><strong>Tools / project stack:</strong> Next.js · Team QA coverage: Playwright, Vitest</p>
-</td></tr>
-</table>
-
-<a id="pca"></a>
-
-<table width="100%">
-<tr><td valign="top">
-<img src="assets/case-studies/pca.svg" alt="Pakistan Citizens Alliance (PCA) Donation Platform project card" width="100%" />
-<p><strong>Pakistan Citizens Alliance (PCA) Donation Platform</strong><br/><sub>Technical project coordination · Full-stack platform expansion · Apr–Jun 2026</sub></p>
-<p>
-<img src="assets/project-badges/payments.svg" alt="Payments" height="34" />
-<img src="assets/project-badges/integrations.svg" alt="Integrations" height="34" />
-<img src="assets/project-badges/admin.svg" alt="Admin Workflows" height="34" />
-</p>
-<p>Coordinated a multi-phase expansion of an existing frontend into a full-stack donation platform, including backend work, payment integration, admin dashboard improvements, and additional pages. Managed requirements for three integrations—PayFast payments, Cloudinary uploads, and Nodemailer emails—and supported development coordination, QA, documentation, and client handoff.</p>
-<p><strong>Tools / project stack:</strong> Next.js · PostgreSQL · Prisma · Redux Toolkit · PayFast</p>
-</td></tr>
-</table>
-
-<a id="legalease"></a>
-
-<table width="100%">
-<tr><td valign="top">
-<img src="assets/case-studies/legalease.svg" alt="LegalEase AI — Legal-Document Assistant project card" width="100%" />
-<p><strong>LegalEase AI — Legal-Document Assistant</strong><br/><sub>Technical project coordination · AI document workflows · Jun 2026</sub></p>
-<p>
-<img src="assets/project-badges/ai-workflow.svg" alt="Ai Workflows" height="34" />
-<img src="assets/project-badges/ocr.svg" alt="Ocr Ingestion" height="34" />
-<img src="assets/project-badges/documentation.svg" alt="Documentation" height="34" />
-</p>
-<p>Coordinated the workflow, requirements, and documentation for an AI legal-document assistant with five core capabilities: clause classification, risk scoring, plain-English simplification, document drafting, and chatbot interaction. Also managed requirements for OCR-based document ingestion and lawyer-consultation marketplace features.</p>
-<p><strong>Tools / project stack:</strong> FastAPI · MongoDB · Hugging Face · OCR</p>
-</td></tr>
-</table>
-
-<a id="american-auto"></a>
-
-<table width="100%">
-<tr><td valign="top">
-<img src="assets/case-studies/american-auto.svg" alt="American Auto Salvage — US Auto Parts Marketplace project card" width="100%" />
-<p><strong>American Auto Salvage — US Auto Parts Marketplace</strong><br/><sub>Technical project coordination · Storefront and catalog operations · Feb–Apr 2026</sub></p>
-<p>
-<img src="assets/project-badges/catalog.svg" alt="Catalog Work" height="34" />
-<img src="assets/project-badges/listings.svg" alt="100K+ Listings" height="34" />
-<img src="assets/project-badges/orders.svg" alt="Order Workflows" height="34" />
-</p>
-<p>Coordinated work on the auto-parts storefront and administration platform, while helping manage the import and organization of more than 100,000 product listings against client catalog deadlines. Supported workflows for product categories, vehicle models, orders, user permissions, and customer inquiries, and documented admin and order-management processes for handoff.</p>
-<p><strong>Tools / project stack:</strong> React · Vite</p>
-</td></tr>
-</table>
-
-<a id="green-eye"></a>
-
-<table width="100%">
-<tr><td valign="top">
-<img src="assets/case-studies/green-eye.svg" alt="Green Eye — AI-Powered Recycling App project card" width="100%" />
-<p><strong>Green Eye — AI-Powered Recycling App</strong><br/><sub>Technical project coordination · Web, backend, and mobile workflows · Jan–Feb 2026</sub></p>
-<p>
-<img src="assets/project-badges/vision.svg" alt="Ai Vision" height="34" />
-<img src="assets/project-badges/mobile.svg" alt="Flutter Mobile" height="34" />
-<img src="assets/project-badges/coordination.svg" alt="Coordination" height="34" />
-</p>
-<p>Coordinated a one-month build spanning three areas: the backend, an admin dashboard, and a Flutter mobile application. Managed requirements for OpenAI Vision-powered recycling scans, location-aware recycling-center searches, and community contribution and review features. Maintained project documentation and client–development communication.</p>
-<p><strong>Tools / project stack:</strong> Node.js / Express · MongoDB · OpenAI · Flutter</p>
-</td></tr>
-</table>
-
-<sub>Role clarity: Technology stacks for coordinated projects refer to technologies used by the project team. They do not imply I personally programmed every component. Client projects are not linked to private repositories.</sub>
-<a id="technical-toolkit"></a>
-<img src="assets/toolkit.svg" alt="04 — Technical toolkit" width="100%" />
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<p><img src="assets/icons/code.svg" alt="" width="23" height="23" /> <strong>Frontend</strong></p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&amp;perline=3&amp;theme=dark" alt="React, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap" width="136" />
-<p><sub>React.js · JavaScript · HTML · CSS<br/>Tailwind CSS · Bootstrap 5</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><img src="assets/icons/terminal.svg" alt="" width="23" height="23" /> <strong>Backend &amp; APIs</strong></p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,php&amp;perline=3&amp;theme=dark" alt="Python, FastAPI, PHP" width="136" />
-<p><sub>Python · FastAPI · PHP<br/>REST APIs · JWT / OTP authentication</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><img src="assets/icons/database.svg" alt="" width="23" height="23" /> <strong>Data</strong></p>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-0D2437?style=for-the-badge&amp;logoColor=5EEAD4" />
-<p><sub>SQL</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><img src="assets/icons/sparkles.svg" alt="" width="23" height="23" /> <strong>AI &amp; integrations</strong></p>
-<img src="https://img.shields.io/badge/OpenAI%20API-0D2437?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" /> <img src="https://img.shields.io/badge/Hugging%20Face-0D2437?style=flat-square&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face" /> <img src="https://img.shields.io/badge/PayFast-0D2437?style=flat-square" alt="PayFast" /> <img src="https://img.shields.io/badge/Nodemailer-0D2437?style=flat-square" alt="Nodemailer" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><img src="assets/icons/pen.svg" alt="" width="23" height="23" /> <strong>UI/UX design</strong></p>
-<img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" width="45" />
-<p><sub>Figma · Prototyping<br/>Responsive interface design</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><img src="assets/icons/briefcase.svg" alt="" width="23" height="23" /> <strong>Tools &amp; delivery</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,vite,postman&amp;perline=4&amp;theme=dark" alt="Git, GitHub, Vite, Postman" width="137" />
-<p><sub>Requirements gathering · Client communication<br/>Technical documentation · QA oversight · Handoff</sub></p>
-</td>
-</tr>
-</table>
-
-<p align="center"><sub>The skills above come from my resume. Technology badges on coordinated projects describe the project stack, not a claim that I personally developed every component.</sub></p>
-
-<a id="github-activity"></a>
-<img src="assets/stats.svg" alt="05 — GitHub activity" width="100%" />
-<img src="assets/icons/activity.svg" alt="" width="21" height="21" /> My public repositories and contribution history are available on <a href="https://github.com/FaizyabBajwa?tab=overview"><strong>GitHub → View my activity</strong></a>.
+<table width="100%"><tr>
+<td width="50%" valign="top"><img src="assets/services/frontend.svg" width="100%" alt="Frontend interfaces" /><p>I implement responsive, design-conscious frontend screens and reusable React interfaces.</p></td>
+<td width="50%" valign="top"><img src="assets/services/design.svg" width="100%" alt="UI UX and prototyping" /><p>I create Figma concepts, user flows, high-fidelity prototypes, and interface systems for handoff.</p></td>
+</tr><tr>
+<td width="50%" valign="top"><img src="assets/services/ai.svg" width="100%" alt="AI and API workflows" /><p>I work with API-based features and coordinate AI-powered application requirements and integrations.</p></td>
+<td width="50%" valign="top"><img src="assets/services/delivery.svg" width="100%" alt="Delivery and QA coordination" /><p>I translate requirements into tasks, coordinate delivery, review functionality, and document handoffs.</p></td>
+</tr></table>
 
 <details>
-<summary><strong>View live GitHub statistics</strong> — third-party cards</summary>
+<summary><strong>Explore my technical toolkit</strong></summary>
 
-<div align="center">
-<p><img alt="Live GitHub account statistics" src="https://github-stats-extended.vercel.app/api?username=FaizyabBajwa&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D2437&amp;title_color=5EEAD4&amp;text_color=F8FAFC&amp;icon_color=2DD4BF" width="490" /></p>
-<p><img alt="Live top languages by public repository code" src="https://github-stats-extended.vercel.app/api/top-langs?username=FaizyabBajwa&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D2437&amp;title_color=5EEAD4&amp;text_color=F8FAFC" width="490" /></p>
-<p><img alt="Live GitHub contribution streak" src="https://streak-stats.demolab.com/?user=FaizyabBajwa&amp;theme=dark&amp;background=0D2437&amp;ring=2DD4BF&amp;fire=5EEAD4&amp;currStreakLabel=5EEAD4&amp;hide_border=true" width="490" /></p>
-</div>
-
-<sub>These are third-party displays of real public data and may be temporarily unavailable. GitHub's own contribution calendar remains the authoritative source.</sub>
+| Area | Skills and tools |
+| --- | --- |
+| **Frontend** | React.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap 5 |
+| **Backend & APIs** | Python, FastAPI, PHP, REST APIs, JWT / OTP authentication |
+| **Data** | SQL |
+| **AI & integrations** | OpenAI API, Hugging Face; coordination of external integrations |
+| **Design** | Figma, responsive UI, prototyping, user flows |
+| **Workflow & quality** | Git, GitHub, Postman, Vite, requirements, QA oversight, documentation |
 
 </details>
 
-<a id="lets-connect"></a>
-<img src="assets/contact.svg" alt="06 — Let's connect" width="100%" />
-<img src="assets/icons/mail.svg" alt="" width="22" height="22" /> I'm open to junior software engineering roles, internship opportunities, and collaborations in frontend development, UI/UX design, and software projects. Feel free to contact me.
+<a id="projects"></a>
+<img src="assets/section-projects.svg" alt="Projects and case studies" width="100%" />
+
+### Selected client and university work
+
+The work below differentiates **hands-on interface design/development** from **technical project coordination**. Where a stack is listed for a coordinated project, it describes team technology rather than a claim that I personally built every part.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <img src="assets/projects/benzi-ai.svg" width="100%" alt="Visual illustration for BENZI AI — Therapist &amp; Patient Care Platform" />
+  <p><strong>BENZI AI — Therapist &amp; Patient Care Platform</strong></p>
+  <p><sub>Direct contribution · UI/UX + React frontend · Jan 2026</sub></p>
+  <p>Designed the UI/UX for patient, therapist, and administrator portals, including wireframes, reusable components, and design-system foundations. Personally developed the patient and therapist responsive frontend interfaces in React.js from Figma screens.</p>
+  <p><sub><strong>Tools / team stack:</strong> Figma · React.js</sub></p>
+</td>
+<td width="50%" valign="top">
+  <img src="assets/projects/krim.svg" width="100%" alt="Visual illustration for Krim Christian Study Platform" />
+  <p><strong>Krim Christian Study Platform</strong></p>
+  <p><sub>Direct contribution · UI/UX designer · Sep 2026</sub></p>
+  <p>Created three alternative interface directions and high-fidelity Figma prototypes for the reading platform. Prepared core screens and flows for developer handoff.</p>
+  <p><sub><strong>Tools / team stack:</strong> Figma · High-fidelity prototyping</sub></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <img src="assets/projects/bin-abbas.svg" width="100%" alt="Visual illustration for Bin Abbas J. Clone E-Commerce Platform" />
+  <p><strong>Bin Abbas J. Clone E-Commerce Platform</strong></p>
+  <p><sub>Project coordination · Jul–Aug 2026</sub></p>
+  <p>Coordinated a two-month e-commerce delivery covering storefront, backend, admin panel, and checkout. Managed client discussions, assignments, progress tracking, and documentation; oversaw storefront and checkout QA supported by the team’s Playwright and Vitest coverage.</p>
+  <p><sub><strong>Tools / team stack:</strong> Project stack: Next.js · Team QA: Playwright, Vitest</sub></p>
+</td>
+<td width="50%" valign="top">
+  <img src="assets/projects/pca.svg" width="100%" alt="Visual illustration for Pakistan Citizens Alliance (PCA) Donation Platform" />
+  <p><strong>Pakistan Citizens Alliance (PCA) Donation Platform</strong></p>
+  <p><sub>Project coordination · Apr–Jun 2026</sub></p>
+  <p>Coordinated expansion into a full-stack donation experience with backend development, payment integration, admin workflows, and additional pages. Managed integration requirements for PayFast, Cloudinary, and Nodemailer, plus QA and handoff documentation.</p>
+  <p><sub><strong>Tools / team stack:</strong> Project stack: Next.js · PostgreSQL · Prisma · Redux Toolkit · PayFast</sub></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <img src="assets/projects/legalease.svg" width="100%" alt="Visual illustration for LegalEase AI — Legal-Document Assistant" />
+  <p><strong>LegalEase AI — Legal-Document Assistant</strong></p>
+  <p><sub>Project coordination · Jun 2026</sub></p>
+  <p>Coordinated requirements and documentation for clause classification, risk scoring, plain-English simplification, document drafting, and chatbot interaction. Also covered OCR ingestion and consultation-marketplace workflows.</p>
+  <p><sub><strong>Tools / team stack:</strong> Project stack: FastAPI · MongoDB · Hugging Face · OCR</sub></p>
+</td>
+<td width="50%" valign="top">
+  <img src="assets/projects/american-auto.svg" width="100%" alt="Visual illustration for American Auto Salvage — US Auto Parts Marketplace" />
+  <p><strong>American Auto Salvage — US Auto Parts Marketplace</strong></p>
+  <p><sub>Project coordination · Feb–Apr 2026</sub></p>
+  <p>Coordinated storefront and admin work and helped organize imports of more than 100,000 product listings. Supported catalog, vehicle-model, order, permissions, inquiry, and handoff workflows.</p>
+  <p><sub><strong>Tools / team stack:</strong> Project stack: React · Vite</sub></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <img src="assets/projects/green-eye.svg" width="100%" alt="Visual illustration for Green Eye — AI-Powered Recycling App" />
+  <p><strong>Green Eye — AI-Powered Recycling App</strong></p>
+  <p><sub>Project coordination · Jan–Feb 2026</sub></p>
+  <p>Coordinated a one-month build spanning backend, admin dashboard, and Flutter mobile app. Managed requirements for vision-based recycling scans, location-aware center searches, contributions, and reviews.</p>
+  <p><sub><strong>Tools / team stack:</strong> Project stack: Node.js · Express · MongoDB · OpenAI · Flutter</sub></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+### Public GitHub repositories
+
+These are actual public repository links from my previous README. Client work remains separate from public source code.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img src="assets/projects/todesktop.svg" width="100%" alt="Illustration for ToDesktop" />
+<p><strong>ToDesktop</strong> &nbsp; <sub>Frontend · UI recreation</sub></p>
+<p>Frontend practice project recreating a ToDesktop-inspired website interface.</p>
+<p><a href="https://github.com/FaizyabBajwa/ToDesktop"><strong>View repository →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/projects/student-portfolio.svg" width="100%" alt="Illustration for Student Portfolio" />
+<p><strong>Student Portfolio</strong> &nbsp; <sub>Portfolio · Web design</sub></p>
+<p>A student portfolio website for presenting personal work and development projects.</p>
+<p><a href="https://github.com/FaizyabBajwa/student-portfolio"><strong>View repository →</strong></a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img src="assets/projects/mental-health.svg" width="100%" alt="Illustration for Mental Health FYP" />
+<p><strong>Mental Health FYP</strong> &nbsp; <sub>University work</sub></p>
+<p>University repository for a mental-health-related software concept.</p>
+<p><a href="https://github.com/FaizyabBajwa/Fyp-To-Reduce-Mental-Health"><strong>View repository →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/projects/local-tourism.svg" width="100%" alt="Illustration for Local Tourism Website" />
+<p><strong>Local Tourism Website</strong> &nbsp; <sub>Web project</sub></p>
+<p>Information and presentation website centered on local tourism.</p>
+<p><a href="https://github.com/FaizyabBajwa/local-tourism-website"><strong>View repository →</strong></a></p>
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="https://github.com/FaizyabBajwa?tab=repositories"><strong>Browse all public repositories →</strong></a></p>
+
+<a id="faqs"></a>
+<img src="assets/section-faqs.svg" alt="Frequently asked questions" width="100%" />
+
+<details>
+<summary><strong>01. What kind of work do you focus on?</strong></summary>
+<p>My focus is React frontend development, interface design in Figma, AI-related product workflows, and coordinating software delivery from requirements through QA and handoff.</p>
+</details>
+
+<details>
+<summary><strong>02. Which project components did you personally design or develop?</strong></summary>
+<p>For BENZI AI, I designed the UI/UX of three portals and developed the patient and therapist frontend interfaces using React.js. For Krim, I created three Figma design directions and high-fidelity prototypes. On the other client projects listed above, my primary role was technical coordination.</p>
+</details>
+
+<details>
+<summary><strong>03. Are all project repositories public?</strong></summary>
+<p>No. The four linked repositories are public GitHub work. Several commercial and client projects are described as case studies because their source repositories are private.</p>
+</details>
+
+<details>
+<summary><strong>04. Have you worked with AI-powered applications?</strong></summary>
+<p>Yes. I coordinated product workflows involving AI legal-document analysis in LegalEase AI and AI vision-based recycling features in Green Eye. My focus included understanding requirements, planning work with developers, and helping validate delivery.</p>
+</details>
+
+<details>
+<summary><strong>05. How do you approach quality and project delivery?</strong></summary>
+<p>I begin by clarifying expected behavior, turning requirements into actionable tasks, reviewing completed functionality, documenting issues, and coordinating follow-up. For Bin Abbas J., this included oversight of checkout and storefront quality checks supported by the team’s Playwright and Vitest coverage.</p>
+</details>
+
+<details>
+<summary><strong>06. What opportunities are you open to?</strong></summary>
+<p>I'm interested in junior software engineering and internship roles, frontend or UI/UX opportunities, and collaborations where thoughtful interfaces and reliable execution matter.</p>
+</details>
+
+<a id="contact"></a>
+<img src="assets/section-cta.svg" alt="Let us make something useful" width="100%" />
 
 <div align="center">
+<a href="mailto:therealfaizyabahmad@gmail.com"><img src="assets/cta.svg" alt="Let's build what matters — email Faizyab Ahmad" width="100%" /></a>
 <p>
-<a href="https://github.com/FaizyabBajwa"><img alt="GitHub — source and projects" src="https://img.shields.io/badge/GitHub-Source%20%26%20projects-0D2437?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/faizyab-a-4b3309372/"><img alt="LinkedIn — professional profile" src="https://img.shields.io/badge/LinkedIn-Professional%20profile-087C83?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="mailto:therealfaizyabahmad@gmail.com"><img alt="Email — say hello" src="https://img.shields.io/badge/Email-Say%20hello-11516A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="mailto:therealfaizyabahmad@gmail.com"><img alt="Email Faizyab Ahmad" src="assets/buttons/email.svg" width="224" /></a>
+<a href="https://www.linkedin.com/in/faizyab-a-4b3309372/"><img alt="Connect on LinkedIn" src="assets/buttons/linkedin.svg" width="224" /></a>
+<a href="https://github.com/FaizyabBajwa"><img alt="Visit GitHub profile" src="assets/buttons/github.svg" width="224" /></a>
 </p>
-
-<p><a href="#top">↑ Back to top</a></p>
 </div>
 
-<img src="assets/footer.svg" alt="Designed and built by Faizyab Ahmad — craft, clarity, continuous learning" width="100%" />
+<a id="conclusion"></a>
+<img src="assets/section-conclusion.svg" alt="Conclusion — Built with purpose" width="100%" />
+
+> **Good software starts with understanding the problem.** I aim to combine practical engineering, thoughtful product design, and clear team communication to deliver work that people can actually use.
+
+<div align="center">
+<p><sub>Thank you for exploring my projects. You can view my work, read the case studies above, or get in touch to discuss an opportunity.</sub></p>
+<a href="#top"><strong>↑ Back to the top</strong></a>
+</div>
+
+<img src="assets/footer.svg" alt="Faizyab Ahmad — craft, clarity and continuous learning" width="100%" />

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="246" viewBox="0 0 1200 246" role="img" aria-label="Open to collaboration — view GitHub, connect on LinkedIn or email me">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101D35"/><stop offset="0.55" stop-color="#0A1C31"/><stop offset="1" stop-color="#10102C"/></linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5CE3D4"/><stop offset="1" stop-color="#A18CFF"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B3452" stop-opacity=".84"/><stop offset="1" stop-color="#102036" stop-opacity=".93"/></linearGradient>
+    <radialGradient id="flare"><stop offset="0" stop-color="#A18CFF" stop-opacity=".29"/><stop offset="1" stop-color="#A18CFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="flare2"><stop offset="0" stop-color="#5CE3D4" stop-opacity=".18"/><stop offset="1" stop-color="#5CE3D4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#A8D0FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="shadow" x="-30%" y="-50%" width="180%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="1200" height="246" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="246" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1056" cy="44" rx="552" ry="216" fill="url(#flare)"/>
+  <ellipse cx="84" cy="221" rx="456" ry="157" fill="url(#flare2)"/>
+  <rect x=".75" y=".75" width="1198.5" height="244.5" rx="22" fill="none" stroke="#96B9E9" stroke-opacity=".19" stroke-width="1.5"/>
+<text x="61" y="66" fill="#5CE3D4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="780" letter-spacing="2">HAVE A ROLE, IDEA, OR PRODUCT IN MIND?</text><text x="59" y="127" fill="#ECF7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="49" font-weight="830" letter-spacing="-1.1">Let’s build what matters.</text><text x="62" y="169" fill="#B4C9E0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="530">Frontend  /  UI/UX  /  AI projects  /  Technical delivery</text><rect x="845" y="82" width="267" height="58" rx="18" fill="url(#hot)" stroke="#B2CFFF" stroke-opacity="0.0" /><text x="978" y="117" fill="#07111F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="820" text-anchor="middle">START A CONVERSATION  ↗</text></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="178" viewBox="0 0 580 178" role="img" aria-label="Delivery &amp; quality service illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101D35"/><stop offset="0.55" stop-color="#0A1C31"/><stop offset="1" stop-color="#10102C"/></linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5CE3D4"/><stop offset="1" stop-color="#FACB81"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B3452" stop-opacity=".84"/><stop offset="1" stop-color="#102036" stop-opacity=".93"/></linearGradient>
+    <radialGradient id="flare"><stop offset="0" stop-color="#FACB81" stop-opacity=".29"/><stop offset="1" stop-color="#FACB81" stop-opacity="0"/></radialGradient>
+    <radialGradient id="flare2"><stop offset="0" stop-color="#5CE3D4" stop-opacity=".18"/><stop offset="1" stop-color="#5CE3D4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#A8D0FF" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="shadow" x="-30%" y="-50%" width="180%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="580" height="178" rx="19" fill="url(#bg)"/>
+  <rect width="580" height="178" rx="19" fill="url(#grid)"/>
+  <ellipse cx="510" cy="32" rx="266" ry="156" fill="url(#flare)"/>
+  <ellipse cx="40" cy="160" rx="220" ry="113" fill="url(#flare2)"/>
+  <rect x=".75" y=".75" width="578.5" height="176.5" rx="19" fill="none" stroke="#96B9E9" stroke-opacity=".19" stroke-width="1.5"/>
+<text x="27" y="39" fill="#5CE3D4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.5">04 / COORDINATION</text><text x="27" y="88" fill="#ECF7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="780">Delivery &amp; quality</text><text x="28" y="119" fill="#9CB2CB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="520">Requirements · QA · Documentation</text><rect x="422" y="40" width="105" height="102" rx="14" fill="#122940" stroke="#A5CFDF" stroke-opacity="0.34" /><circle cx="442" cy="62" r="8" fill="#5CE3D4" opacity=".16"/><path d="M438 62l3 3 5 -6" stroke="#5CE3D4" stroke-width="2" fill="none"/><rect x="458" y="58" width="51" height="7" rx="3" fill="#688AAA" stroke="#B2CFFF" stroke-opacity="0.03" /><circle cx="442" cy="91" r="8" fill="#5CE3D4" opacity=".16"/><path d="M438 91l3 3 5 -6" stroke="#5CE3D4" stroke-width="2" fill="none"/><rect x="458" y="87" width="44" height="7" rx="3" fill="#688AAA" stroke="#B2CFFF" stroke-opacity="0.03" /><circle cx="442" cy="120" r="8" fill="#5CE3D4" opacity=".16"/><path d="M438 120l3 3 5 -6" stroke="#5CE3D4" stroke-width="2" fill="none"/><rect x="458" y="116" width="37" height="7" rx="3" fill="#688AAA" stroke="#B2CFFF" stroke-opacity="0.03" /></svg>
